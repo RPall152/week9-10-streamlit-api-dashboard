@@ -1,5 +1,5 @@
-Student name: Rethabile Pall
-MISIS: M01026870
+## Student name: Rethabile Pall
+## MISIS: M01026870
 
 # 🚀 Week 9 – Streamlit Intelligence Platform
 
@@ -37,5 +37,3 @@ The project demonstrates professional web app architecture, secure authenticatio
 
 ---
 
-✅ **Status:** Complete & Submission Ready  
-📚 **Module Focus:** Web Apps, Databases, MVC, Visualization & AI
