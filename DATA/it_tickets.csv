@@ -1,0 +1,1001 @@
+ticket_id,priority,description,status,assigned_to,created_at,resolution_time_hours
+TCK-2000,Critical,Synthetic IT ticket #0,Closed,analyst1,2025-03-15,20
+TCK-2001,Low,Synthetic IT ticket #1,Assigned,it_admin,2025-05-24,94
+TCK-2002,Critical,Synthetic IT ticket #2,Resolved,analyst1,2025-08-16,235
+TCK-2003,Critical,Synthetic IT ticket #3,Open,analyst1,2025-04-11,158
+TCK-2004,High,Synthetic IT ticket #4,Assigned,cyber_admin,2025-10-16,72
+TCK-2005,Critical,Synthetic IT ticket #5,Resolved,cyber_admin,2025-12-02,91
+TCK-2006,Critical,Synthetic IT ticket #6,In Progress,it_admin,2025-11-09,85
+TCK-2007,High,Synthetic IT ticket #7,Assigned,cyber_admin,2025-08-31,198
+TCK-2008,Critical,Synthetic IT ticket #8,Closed,data_scientist,2025-08-09,221
+TCK-2009,Critical,Synthetic IT ticket #9,Open,cyber_admin,2025-08-12,189
+TCK-2010,High,Synthetic IT ticket #10,Assigned,it_admin,2025-07-19,78
+TCK-2011,High,Synthetic IT ticket #11,Assigned,data_scientist,2025-05-19,61
+TCK-2012,High,Synthetic IT ticket #12,Assigned,data_scientist,2025-12-07,159
+TCK-2013,High,Synthetic IT ticket #13,Closed,data_scientist,2025-02-19,139
+TCK-2014,High,Synthetic IT ticket #14,In Progress,it_admin,2025-08-05,98
+TCK-2015,Medium,Synthetic IT ticket #15,Assigned,it_admin,2025-07-21,145
+TCK-2016,Critical,Synthetic IT ticket #16,Resolved,it_admin,2025-11-22,181
+TCK-2017,Critical,Synthetic IT ticket #17,Closed,analyst2,2025-12-10,77
+TCK-2018,Critical,Synthetic IT ticket #18,Assigned,data_scientist,2025-08-24,144
+TCK-2019,High,Synthetic IT ticket #19,Closed,analyst1,2025-08-12,225
+TCK-2020,Critical,Synthetic IT ticket #20,In Progress,it_admin,2025-05-23,85
+TCK-2021,Medium,Synthetic IT ticket #21,Open,it_admin,2025-09-02,140
+TCK-2022,High,Synthetic IT ticket #22,Closed,data_scientist,2025-09-20,138
+TCK-2023,Low,Synthetic IT ticket #23,Resolved,cyber_admin,2025-03-19,129
+TCK-2024,High,Synthetic IT ticket #24,Assigned,it_admin,2025-10-09,97
+TCK-2025,Low,Synthetic IT ticket #25,Assigned,analyst1,2025-08-08,179
+TCK-2026,Low,Synthetic IT ticket #26,Resolved,analyst1,2025-03-26,68
+TCK-2027,Low,Synthetic IT ticket #27,Open,cyber_admin,2025-10-25,174
+TCK-2028,High,Synthetic IT ticket #28,In Progress,it_admin,2025-03-10,93
+TCK-2029,High,Synthetic IT ticket #29,Open,analyst2,2025-09-05,57
+TCK-2030,Critical,Synthetic IT ticket #30,In Progress,analyst2,2025-08-27,26
+TCK-2031,Critical,Synthetic IT ticket #31,Resolved,analyst2,2025-07-04,43
+TCK-2032,Medium,Synthetic IT ticket #32,Open,analyst1,2025-11-26,158
+TCK-2033,Medium,Synthetic IT ticket #33,Closed,cyber_admin,2025-07-08,127
+TCK-2034,Low,Synthetic IT ticket #34,Resolved,it_admin,2025-06-15,144
+TCK-2035,High,Synthetic IT ticket #35,Closed,data_scientist,2025-03-17,152
+TCK-2036,High,Synthetic IT ticket #36,Resolved,analyst2,2025-10-07,232
+TCK-2037,Medium,Synthetic IT ticket #37,In Progress,analyst1,2025-09-17,173
+TCK-2038,Medium,Synthetic IT ticket #38,Resolved,data_scientist,2025-07-14,116
+TCK-2039,Low,Synthetic IT ticket #39,Open,data_scientist,2025-05-03,181
+TCK-2040,High,Synthetic IT ticket #40,Assigned,data_scientist,2025-10-03,120
+TCK-2041,Low,Synthetic IT ticket #41,Closed,cyber_admin,2025-11-04,34
+TCK-2042,Critical,Synthetic IT ticket #42,Assigned,cyber_admin,2025-03-08,136
+TCK-2043,Low,Synthetic IT ticket #43,Closed,cyber_admin,2025-03-16,184
+TCK-2044,High,Synthetic IT ticket #44,Assigned,analyst1,2025-04-04,182
+TCK-2045,Medium,Synthetic IT ticket #45,Closed,cyber_admin,2025-03-07,239
+TCK-2046,High,Synthetic IT ticket #46,Resolved,cyber_admin,2025-07-28,160
+TCK-2047,Low,Synthetic IT ticket #47,Resolved,it_admin,2025-07-06,67
+TCK-2048,Medium,Synthetic IT ticket #48,Open,it_admin,2025-11-22,181
+TCK-2049,Medium,Synthetic IT ticket #49,Open,analyst1,2025-06-18,186
+TCK-2050,Low,Synthetic IT ticket #50,In Progress,cyber_admin,2025-03-19,96
+TCK-2051,Critical,Synthetic IT ticket #51,In Progress,cyber_admin,2025-04-27,201
+TCK-2052,Medium,Synthetic IT ticket #52,Assigned,data_scientist,2025-02-21,90
+TCK-2053,Critical,Synthetic IT ticket #53,In Progress,analyst1,2025-02-18,193
+TCK-2054,Critical,Synthetic IT ticket #54,In Progress,analyst2,2025-07-23,208
+TCK-2055,Medium,Synthetic IT ticket #55,Closed,it_admin,2025-04-13,48
+TCK-2056,Medium,Synthetic IT ticket #56,Closed,analyst2,2025-06-03,125
+TCK-2057,Medium,Synthetic IT ticket #57,Closed,analyst1,2025-02-17,98
+TCK-2058,Critical,Synthetic IT ticket #58,Assigned,analyst1,2025-03-14,173
+TCK-2059,Critical,Synthetic IT ticket #59,Assigned,data_scientist,2025-12-09,9
+TCK-2060,Medium,Synthetic IT ticket #60,Open,analyst1,2025-08-01,40
+TCK-2061,Medium,Synthetic IT ticket #61,Closed,cyber_admin,2025-06-10,180
+TCK-2062,Critical,Synthetic IT ticket #62,Assigned,it_admin,2025-07-04,42
+TCK-2063,High,Synthetic IT ticket #63,Resolved,cyber_admin,2025-06-28,28
+TCK-2064,High,Synthetic IT ticket #64,Resolved,cyber_admin,2025-05-15,38
+TCK-2065,Medium,Synthetic IT ticket #65,Assigned,analyst1,2025-07-27,219
+TCK-2066,Medium,Synthetic IT ticket #66,Open,analyst2,2025-05-17,196
+TCK-2067,Medium,Synthetic IT ticket #67,In Progress,analyst1,2025-06-11,117
+TCK-2068,High,Synthetic IT ticket #68,Closed,data_scientist,2025-08-26,236
+TCK-2069,Medium,Synthetic IT ticket #69,In Progress,analyst1,2025-02-22,35
+TCK-2070,Medium,Synthetic IT ticket #70,In Progress,analyst2,2025-10-08,94
+TCK-2071,Critical,Synthetic IT ticket #71,Open,data_scientist,2025-08-31,146
+TCK-2072,Medium,Synthetic IT ticket #72,Assigned,cyber_admin,2025-04-21,50
+TCK-2073,High,Synthetic IT ticket #73,Assigned,analyst2,2025-11-03,95
+TCK-2074,Medium,Synthetic IT ticket #74,Closed,data_scientist,2025-08-14,112
+TCK-2075,Critical,Synthetic IT ticket #75,In Progress,data_scientist,2025-07-29,136
+TCK-2076,High,Synthetic IT ticket #76,In Progress,data_scientist,2025-06-19,81
+TCK-2077,High,Synthetic IT ticket #77,In Progress,cyber_admin,2025-05-18,125
+TCK-2078,Low,Synthetic IT ticket #78,Closed,cyber_admin,2025-02-20,176
+TCK-2079,Low,Synthetic IT ticket #79,In Progress,data_scientist,2025-08-04,162
+TCK-2080,Low,Synthetic IT ticket #80,Assigned,data_scientist,2025-06-02,26
+TCK-2081,Critical,Synthetic IT ticket #81,In Progress,it_admin,2025-08-22,95
+TCK-2082,Critical,Synthetic IT ticket #82,Assigned,data_scientist,2025-09-04,104
+TCK-2083,Low,Synthetic IT ticket #83,Open,cyber_admin,2025-07-29,197
+TCK-2084,Medium,Synthetic IT ticket #84,Closed,analyst2,2025-08-21,42
+TCK-2085,High,Synthetic IT ticket #85,Assigned,analyst2,2025-02-28,5
+TCK-2086,Medium,Synthetic IT ticket #86,Assigned,analyst2,2025-05-24,120
+TCK-2087,Medium,Synthetic IT ticket #87,Open,analyst2,2025-10-30,206
+TCK-2088,Low,Synthetic IT ticket #88,Resolved,it_admin,2025-12-04,150
+TCK-2089,Critical,Synthetic IT ticket #89,In Progress,it_admin,2025-10-21,153
+TCK-2090,Critical,Synthetic IT ticket #90,Closed,cyber_admin,2025-04-03,21
+TCK-2091,Medium,Synthetic IT ticket #91,Open,analyst1,2025-09-02,19
+TCK-2092,Medium,Synthetic IT ticket #92,Open,cyber_admin,2025-03-25,69
+TCK-2093,High,Synthetic IT ticket #93,In Progress,data_scientist,2025-08-16,33
+TCK-2094,Critical,Synthetic IT ticket #94,Open,analyst2,2025-12-03,115
+TCK-2095,Medium,Synthetic IT ticket #95,Resolved,it_admin,2025-04-08,134
+TCK-2096,High,Synthetic IT ticket #96,Open,data_scientist,2025-02-22,8
+TCK-2097,High,Synthetic IT ticket #97,Closed,data_scientist,2025-02-26,52
+TCK-2098,Medium,Synthetic IT ticket #98,Closed,it_admin,2025-06-23,180
+TCK-2099,Low,Synthetic IT ticket #99,Resolved,data_scientist,2025-07-13,144
+TCK-2100,Medium,Synthetic IT ticket #100,In Progress,it_admin,2025-04-23,29
+TCK-2101,High,Synthetic IT ticket #101,Assigned,data_scientist,2025-11-27,140
+TCK-2102,High,Synthetic IT ticket #102,Open,it_admin,2025-12-11,24
+TCK-2103,Medium,Synthetic IT ticket #103,Open,it_admin,2025-10-13,156
+TCK-2104,Medium,Synthetic IT ticket #104,Assigned,data_scientist,2025-11-23,180
+TCK-2105,Medium,Synthetic IT ticket #105,Open,analyst2,2025-06-22,81
+TCK-2106,High,Synthetic IT ticket #106,In Progress,analyst1,2025-04-02,4
+TCK-2107,Critical,Synthetic IT ticket #107,Open,cyber_admin,2025-05-02,32
+TCK-2108,High,Synthetic IT ticket #108,Open,cyber_admin,2025-10-17,219
+TCK-2109,High,Synthetic IT ticket #109,In Progress,it_admin,2025-04-26,89
+TCK-2110,High,Synthetic IT ticket #110,In Progress,cyber_admin,2025-03-08,223
+TCK-2111,High,Synthetic IT ticket #111,Resolved,it_admin,2025-03-04,144
+TCK-2112,High,Synthetic IT ticket #112,Open,it_admin,2025-03-24,114
+TCK-2113,Low,Synthetic IT ticket #113,Resolved,cyber_admin,2025-03-16,137
+TCK-2114,Critical,Synthetic IT ticket #114,In Progress,data_scientist,2025-04-21,57
+TCK-2115,High,Synthetic IT ticket #115,Resolved,it_admin,2025-07-17,114
+TCK-2116,Critical,Synthetic IT ticket #116,Assigned,cyber_admin,2025-05-19,172
+TCK-2117,Low,Synthetic IT ticket #117,Open,cyber_admin,2025-11-27,167
+TCK-2118,Critical,Synthetic IT ticket #118,Open,it_admin,2025-06-05,42
+TCK-2119,Medium,Synthetic IT ticket #119,Open,analyst2,2025-10-12,88
+TCK-2120,Critical,Synthetic IT ticket #120,Closed,cyber_admin,2025-05-12,137
+TCK-2121,Critical,Synthetic IT ticket #121,Closed,data_scientist,2025-03-19,221
+TCK-2122,Low,Synthetic IT ticket #122,In Progress,it_admin,2025-04-08,96
+TCK-2123,Low,Synthetic IT ticket #123,In Progress,cyber_admin,2025-07-03,187
+TCK-2124,Low,Synthetic IT ticket #124,Assigned,cyber_admin,2025-10-12,234
+TCK-2125,Critical,Synthetic IT ticket #125,In Progress,it_admin,2025-04-25,215
+TCK-2126,High,Synthetic IT ticket #126,Open,data_scientist,2025-09-04,150
+TCK-2127,Low,Synthetic IT ticket #127,Resolved,data_scientist,2025-02-24,137
+TCK-2128,High,Synthetic IT ticket #128,Assigned,it_admin,2025-09-03,4
+TCK-2129,Critical,Synthetic IT ticket #129,Open,cyber_admin,2025-08-07,108
+TCK-2130,High,Synthetic IT ticket #130,Resolved,analyst2,2025-05-31,220
+TCK-2131,Low,Synthetic IT ticket #131,Closed,data_scientist,2025-06-03,141
+TCK-2132,Low,Synthetic IT ticket #132,In Progress,data_scientist,2025-12-07,178
+TCK-2133,Low,Synthetic IT ticket #133,Closed,it_admin,2025-02-18,77
+TCK-2134,Low,Synthetic IT ticket #134,Assigned,it_admin,2025-11-21,86
+TCK-2135,Critical,Synthetic IT ticket #135,Open,data_scientist,2025-03-03,202
+TCK-2136,Critical,Synthetic IT ticket #136,Assigned,data_scientist,2025-07-21,145
+TCK-2137,Low,Synthetic IT ticket #137,Assigned,data_scientist,2025-10-07,9
+TCK-2138,Medium,Synthetic IT ticket #138,Assigned,it_admin,2025-02-22,51
+TCK-2139,Low,Synthetic IT ticket #139,Assigned,cyber_admin,2025-06-01,60
+TCK-2140,High,Synthetic IT ticket #140,Open,it_admin,2025-12-02,15
+TCK-2141,High,Synthetic IT ticket #141,Resolved,analyst2,2025-06-26,84
+TCK-2142,High,Synthetic IT ticket #142,Resolved,data_scientist,2025-08-31,188
+TCK-2143,Low,Synthetic IT ticket #143,Open,it_admin,2025-11-16,4
+TCK-2144,Low,Synthetic IT ticket #144,Resolved,analyst1,2025-04-12,240
+TCK-2145,High,Synthetic IT ticket #145,In Progress,analyst2,2025-05-02,68
+TCK-2146,Low,Synthetic IT ticket #146,Closed,analyst1,2025-04-20,133
+TCK-2147,Critical,Synthetic IT ticket #147,In Progress,it_admin,2025-08-17,99
+TCK-2148,Critical,Synthetic IT ticket #148,Closed,analyst1,2025-06-18,110
+TCK-2149,Critical,Synthetic IT ticket #149,Closed,analyst1,2025-10-03,96
+TCK-2150,Medium,Synthetic IT ticket #150,Open,cyber_admin,2025-06-25,192
+TCK-2151,Critical,Synthetic IT ticket #151,Resolved,cyber_admin,2025-08-25,8
+TCK-2152,High,Synthetic IT ticket #152,Assigned,it_admin,2025-12-12,92
+TCK-2153,Low,Synthetic IT ticket #153,Closed,analyst2,2025-06-06,149
+TCK-2154,Critical,Synthetic IT ticket #154,Closed,analyst2,2025-02-17,129
+TCK-2155,Medium,Synthetic IT ticket #155,Assigned,cyber_admin,2025-04-12,74
+TCK-2156,Critical,Synthetic IT ticket #156,Closed,it_admin,2025-07-30,197
+TCK-2157,High,Synthetic IT ticket #157,In Progress,data_scientist,2025-09-01,38
+TCK-2158,High,Synthetic IT ticket #158,Open,it_admin,2025-05-07,132
+TCK-2159,High,Synthetic IT ticket #159,In Progress,data_scientist,2025-09-20,100
+TCK-2160,Critical,Synthetic IT ticket #160,In Progress,data_scientist,2025-10-16,72
+TCK-2161,Medium,Synthetic IT ticket #161,Open,data_scientist,2025-08-05,63
+TCK-2162,Low,Synthetic IT ticket #162,Open,analyst2,2025-07-24,233
+TCK-2163,Low,Synthetic IT ticket #163,Assigned,it_admin,2025-09-13,227
+TCK-2164,High,Synthetic IT ticket #164,In Progress,analyst2,2025-05-05,36
+TCK-2165,Low,Synthetic IT ticket #165,In Progress,cyber_admin,2025-04-06,214
+TCK-2166,High,Synthetic IT ticket #166,Open,data_scientist,2025-04-15,126
+TCK-2167,High,Synthetic IT ticket #167,Assigned,analyst1,2025-08-08,89
+TCK-2168,Medium,Synthetic IT ticket #168,Closed,analyst2,2025-11-02,57
+TCK-2169,High,Synthetic IT ticket #169,Resolved,analyst2,2025-06-03,128
+TCK-2170,Low,Synthetic IT ticket #170,Assigned,cyber_admin,2025-09-18,10
+TCK-2171,Medium,Synthetic IT ticket #171,Open,analyst1,2025-04-04,146
+TCK-2172,High,Synthetic IT ticket #172,In Progress,it_admin,2025-04-26,157
+TCK-2173,Medium,Synthetic IT ticket #173,In Progress,cyber_admin,2025-04-10,186
+TCK-2174,Critical,Synthetic IT ticket #174,Resolved,data_scientist,2025-07-30,189
+TCK-2175,High,Synthetic IT ticket #175,In Progress,data_scientist,2025-07-18,37
+TCK-2176,Medium,Synthetic IT ticket #176,In Progress,it_admin,2025-06-19,91
+TCK-2177,High,Synthetic IT ticket #177,Open,data_scientist,2025-08-12,221
+TCK-2178,Low,Synthetic IT ticket #178,In Progress,it_admin,2025-10-22,240
+TCK-2179,Low,Synthetic IT ticket #179,Closed,it_admin,2025-08-17,177
+TCK-2180,Low,Synthetic IT ticket #180,Open,analyst2,2025-06-27,72
+TCK-2181,Critical,Synthetic IT ticket #181,Resolved,analyst1,2025-05-22,81
+TCK-2182,High,Synthetic IT ticket #182,Assigned,analyst1,2025-04-27,154
+TCK-2183,Medium,Synthetic IT ticket #183,Open,it_admin,2025-11-20,220
+TCK-2184,Medium,Synthetic IT ticket #184,In Progress,analyst2,2025-09-18,71
+TCK-2185,High,Synthetic IT ticket #185,Closed,analyst2,2025-11-22,171
+TCK-2186,Critical,Synthetic IT ticket #186,Resolved,analyst2,2025-06-04,154
+TCK-2187,Medium,Synthetic IT ticket #187,In Progress,analyst2,2025-04-21,184
+TCK-2188,Low,Synthetic IT ticket #188,Assigned,analyst2,2025-10-08,45
+TCK-2189,High,Synthetic IT ticket #189,Closed,analyst1,2025-09-04,200
+TCK-2190,High,Synthetic IT ticket #190,Assigned,data_scientist,2025-04-11,49
+TCK-2191,High,Synthetic IT ticket #191,Closed,it_admin,2025-08-28,113
+TCK-2192,Low,Synthetic IT ticket #192,Resolved,cyber_admin,2025-09-24,135
+TCK-2193,Low,Synthetic IT ticket #193,Open,it_admin,2025-05-08,207
+TCK-2194,Medium,Synthetic IT ticket #194,In Progress,data_scientist,2025-06-26,28
+TCK-2195,Low,Synthetic IT ticket #195,Resolved,analyst1,2025-06-20,215
+TCK-2196,Low,Synthetic IT ticket #196,In Progress,data_scientist,2025-04-02,28
+TCK-2197,Low,Synthetic IT ticket #197,Open,analyst1,2025-09-01,147
+TCK-2198,Medium,Synthetic IT ticket #198,Open,cyber_admin,2025-10-06,115
+TCK-2199,High,Synthetic IT ticket #199,In Progress,analyst1,2025-04-04,202
+TCK-2200,Low,Synthetic IT ticket #200,Assigned,data_scientist,2025-02-19,198
+TCK-2201,Medium,Synthetic IT ticket #201,In Progress,analyst2,2025-08-18,44
+TCK-2202,High,Synthetic IT ticket #202,Open,data_scientist,2025-11-22,24
+TCK-2203,Critical,Synthetic IT ticket #203,Open,it_admin,2025-03-30,230
+TCK-2204,Critical,Synthetic IT ticket #204,Resolved,analyst2,2025-07-29,220
+TCK-2205,Critical,Synthetic IT ticket #205,Resolved,data_scientist,2025-07-03,68
+TCK-2206,Low,Synthetic IT ticket #206,Resolved,analyst1,2025-10-14,10
+TCK-2207,Critical,Synthetic IT ticket #207,Closed,analyst1,2025-11-14,47
+TCK-2208,Medium,Synthetic IT ticket #208,Resolved,analyst2,2025-03-15,149
+TCK-2209,Critical,Synthetic IT ticket #209,In Progress,data_scientist,2025-06-22,118
+TCK-2210,Medium,Synthetic IT ticket #210,Closed,cyber_admin,2025-08-17,126
+TCK-2211,Medium,Synthetic IT ticket #211,Resolved,analyst1,2025-03-15,200
+TCK-2212,Low,Synthetic IT ticket #212,Resolved,analyst2,2025-08-04,78
+TCK-2213,High,Synthetic IT ticket #213,Resolved,it_admin,2025-07-02,19
+TCK-2214,Low,Synthetic IT ticket #214,Open,data_scientist,2025-11-05,115
+TCK-2215,Medium,Synthetic IT ticket #215,Closed,it_admin,2025-06-15,137
+TCK-2216,Low,Synthetic IT ticket #216,Open,analyst1,2025-03-21,61
+TCK-2217,Medium,Synthetic IT ticket #217,Assigned,it_admin,2025-03-27,239
+TCK-2218,Low,Synthetic IT ticket #218,Open,cyber_admin,2025-06-04,96
+TCK-2219,Medium,Synthetic IT ticket #219,Closed,cyber_admin,2025-06-15,90
+TCK-2220,High,Synthetic IT ticket #220,Assigned,analyst2,2025-07-02,112
+TCK-2221,Critical,Synthetic IT ticket #221,In Progress,cyber_admin,2025-05-05,46
+TCK-2222,High,Synthetic IT ticket #222,In Progress,analyst2,2025-12-09,213
+TCK-2223,Low,Synthetic IT ticket #223,Open,analyst2,2025-03-08,213
+TCK-2224,High,Synthetic IT ticket #224,Assigned,analyst2,2025-10-31,1
+TCK-2225,Critical,Synthetic IT ticket #225,Open,cyber_admin,2025-07-02,162
+TCK-2226,Medium,Synthetic IT ticket #226,Open,data_scientist,2025-10-04,237
+TCK-2227,Low,Synthetic IT ticket #227,Open,data_scientist,2025-10-15,182
+TCK-2228,Critical,Synthetic IT ticket #228,Closed,data_scientist,2025-07-22,118
+TCK-2229,Medium,Synthetic IT ticket #229,Assigned,data_scientist,2025-07-28,203
+TCK-2230,Critical,Synthetic IT ticket #230,Assigned,data_scientist,2025-09-06,132
+TCK-2231,Low,Synthetic IT ticket #231,Closed,analyst1,2025-06-19,187
+TCK-2232,Critical,Synthetic IT ticket #232,In Progress,analyst2,2025-05-05,207
+TCK-2233,Critical,Synthetic IT ticket #233,In Progress,it_admin,2025-09-10,115
+TCK-2234,High,Synthetic IT ticket #234,In Progress,it_admin,2025-08-18,25
+TCK-2235,High,Synthetic IT ticket #235,In Progress,analyst1,2025-12-14,168
+TCK-2236,Medium,Synthetic IT ticket #236,Open,analyst1,2025-03-29,75
+TCK-2237,High,Synthetic IT ticket #237,Closed,cyber_admin,2025-02-22,108
+TCK-2238,Low,Synthetic IT ticket #238,In Progress,it_admin,2025-12-06,240
+TCK-2239,Low,Synthetic IT ticket #239,Assigned,analyst1,2025-08-06,37
+TCK-2240,High,Synthetic IT ticket #240,Open,analyst1,2025-05-14,137
+TCK-2241,Medium,Synthetic IT ticket #241,Open,analyst1,2025-03-25,218
+TCK-2242,High,Synthetic IT ticket #242,Resolved,it_admin,2025-03-24,196
+TCK-2243,High,Synthetic IT ticket #243,Assigned,it_admin,2025-10-25,222
+TCK-2244,High,Synthetic IT ticket #244,Closed,it_admin,2025-05-28,208
+TCK-2245,Low,Synthetic IT ticket #245,Assigned,analyst2,2025-05-04,41
+TCK-2246,Medium,Synthetic IT ticket #246,Closed,it_admin,2025-11-27,11
+TCK-2247,Low,Synthetic IT ticket #247,Resolved,it_admin,2025-06-13,120
+TCK-2248,High,Synthetic IT ticket #248,Resolved,data_scientist,2025-09-01,26
+TCK-2249,Critical,Synthetic IT ticket #249,Open,cyber_admin,2025-05-03,48
+TCK-2250,High,Synthetic IT ticket #250,In Progress,it_admin,2025-10-25,234
+TCK-2251,Low,Synthetic IT ticket #251,Open,it_admin,2025-04-05,44
+TCK-2252,Critical,Synthetic IT ticket #252,In Progress,analyst1,2025-11-03,19
+TCK-2253,Medium,Synthetic IT ticket #253,Resolved,analyst1,2025-10-29,47
+TCK-2254,High,Synthetic IT ticket #254,Open,data_scientist,2025-06-17,100
+TCK-2255,High,Synthetic IT ticket #255,In Progress,cyber_admin,2025-08-01,80
+TCK-2256,Medium,Synthetic IT ticket #256,Assigned,cyber_admin,2025-12-01,36
+TCK-2257,Critical,Synthetic IT ticket #257,In Progress,it_admin,2025-04-23,74
+TCK-2258,High,Synthetic IT ticket #258,Resolved,analyst2,2025-04-05,210
+TCK-2259,Medium,Synthetic IT ticket #259,Assigned,it_admin,2025-07-25,135
+TCK-2260,Medium,Synthetic IT ticket #260,Open,it_admin,2025-03-06,78
+TCK-2261,Critical,Synthetic IT ticket #261,Closed,cyber_admin,2025-06-30,133
+TCK-2262,Medium,Synthetic IT ticket #262,Closed,data_scientist,2025-08-11,231
+TCK-2263,Low,Synthetic IT ticket #263,Closed,cyber_admin,2025-04-05,21
+TCK-2264,High,Synthetic IT ticket #264,In Progress,cyber_admin,2025-03-24,240
+TCK-2265,Critical,Synthetic IT ticket #265,In Progress,analyst1,2025-12-01,145
+TCK-2266,High,Synthetic IT ticket #266,Resolved,data_scientist,2025-08-19,56
+TCK-2267,Medium,Synthetic IT ticket #267,Assigned,analyst2,2025-07-03,110
+TCK-2268,High,Synthetic IT ticket #268,In Progress,analyst2,2025-09-10,88
+TCK-2269,High,Synthetic IT ticket #269,Closed,cyber_admin,2025-02-20,114
+TCK-2270,Critical,Synthetic IT ticket #270,Open,analyst2,2025-11-21,178
+TCK-2271,Low,Synthetic IT ticket #271,Closed,it_admin,2025-10-15,88
+TCK-2272,Critical,Synthetic IT ticket #272,In Progress,data_scientist,2025-10-31,129
+TCK-2273,Medium,Synthetic IT ticket #273,Closed,data_scientist,2025-09-06,130
+TCK-2274,Low,Synthetic IT ticket #274,Open,it_admin,2025-07-11,79
+TCK-2275,Critical,Synthetic IT ticket #275,Open,cyber_admin,2025-09-15,23
+TCK-2276,Medium,Synthetic IT ticket #276,Resolved,cyber_admin,2025-05-26,136
+TCK-2277,Critical,Synthetic IT ticket #277,Resolved,analyst1,2025-03-15,2
+TCK-2278,Low,Synthetic IT ticket #278,Closed,cyber_admin,2025-07-31,20
+TCK-2279,Low,Synthetic IT ticket #279,Open,it_admin,2025-08-16,77
+TCK-2280,Critical,Synthetic IT ticket #280,Resolved,analyst2,2025-07-09,224
+TCK-2281,High,Synthetic IT ticket #281,Resolved,analyst2,2025-10-11,153
+TCK-2282,High,Synthetic IT ticket #282,Assigned,cyber_admin,2025-04-08,230
+TCK-2283,Critical,Synthetic IT ticket #283,Open,data_scientist,2025-12-02,229
+TCK-2284,Low,Synthetic IT ticket #284,Assigned,analyst1,2025-10-20,119
+TCK-2285,Medium,Synthetic IT ticket #285,Open,analyst2,2025-09-13,181
+TCK-2286,High,Synthetic IT ticket #286,Assigned,it_admin,2025-02-28,11
+TCK-2287,Critical,Synthetic IT ticket #287,Resolved,analyst2,2025-03-04,77
+TCK-2288,Medium,Synthetic IT ticket #288,Open,it_admin,2025-03-22,104
+TCK-2289,Low,Synthetic IT ticket #289,Assigned,analyst2,2025-09-14,81
+TCK-2290,Medium,Synthetic IT ticket #290,Assigned,analyst2,2025-03-08,172
+TCK-2291,High,Synthetic IT ticket #291,Open,analyst1,2025-03-13,188
+TCK-2292,High,Synthetic IT ticket #292,In Progress,cyber_admin,2025-08-19,138
+TCK-2293,High,Synthetic IT ticket #293,Closed,analyst2,2025-08-20,183
+TCK-2294,Medium,Synthetic IT ticket #294,Closed,data_scientist,2025-04-12,224
+TCK-2295,Medium,Synthetic IT ticket #295,Open,it_admin,2025-06-16,152
+TCK-2296,Medium,Synthetic IT ticket #296,Assigned,analyst1,2025-07-11,16
+TCK-2297,Critical,Synthetic IT ticket #297,Assigned,analyst2,2025-11-28,119
+TCK-2298,Medium,Synthetic IT ticket #298,Resolved,data_scientist,2025-11-18,135
+TCK-2299,Medium,Synthetic IT ticket #299,Open,data_scientist,2025-04-01,20
+TCK-2300,Critical,Synthetic IT ticket #300,Resolved,data_scientist,2025-03-26,179
+TCK-2301,High,Synthetic IT ticket #301,Open,it_admin,2025-04-16,169
+TCK-2302,Critical,Synthetic IT ticket #302,Resolved,cyber_admin,2025-07-21,202
+TCK-2303,Medium,Synthetic IT ticket #303,Resolved,it_admin,2025-10-31,150
+TCK-2304,Low,Synthetic IT ticket #304,In Progress,cyber_admin,2025-09-14,178
+TCK-2305,High,Synthetic IT ticket #305,Assigned,analyst2,2025-11-04,155
+TCK-2306,Critical,Synthetic IT ticket #306,Assigned,cyber_admin,2025-09-06,14
+TCK-2307,High,Synthetic IT ticket #307,Assigned,it_admin,2025-07-09,199
+TCK-2308,Medium,Synthetic IT ticket #308,In Progress,analyst1,2025-05-07,146
+TCK-2309,Critical,Synthetic IT ticket #309,Assigned,data_scientist,2025-05-20,234
+TCK-2310,Low,Synthetic IT ticket #310,In Progress,analyst2,2025-06-23,24
+TCK-2311,Critical,Synthetic IT ticket #311,Open,it_admin,2025-11-21,141
+TCK-2312,Critical,Synthetic IT ticket #312,Open,data_scientist,2025-08-16,74
+TCK-2313,Critical,Synthetic IT ticket #313,Assigned,data_scientist,2025-05-24,121
+TCK-2314,Medium,Synthetic IT ticket #314,Assigned,analyst1,2025-08-25,120
+TCK-2315,High,Synthetic IT ticket #315,Open,it_admin,2025-11-27,21
+TCK-2316,High,Synthetic IT ticket #316,Assigned,data_scientist,2025-09-10,37
+TCK-2317,Critical,Synthetic IT ticket #317,In Progress,cyber_admin,2025-05-24,34
+TCK-2318,Medium,Synthetic IT ticket #318,Assigned,analyst2,2025-09-06,176
+TCK-2319,Low,Synthetic IT ticket #319,In Progress,it_admin,2025-07-21,108
+TCK-2320,High,Synthetic IT ticket #320,In Progress,it_admin,2025-05-14,197
+TCK-2321,Critical,Synthetic IT ticket #321,Open,analyst2,2025-12-04,67
+TCK-2322,Critical,Synthetic IT ticket #322,In Progress,it_admin,2025-03-27,199
+TCK-2323,Low,Synthetic IT ticket #323,Resolved,it_admin,2025-09-16,97
+TCK-2324,Medium,Synthetic IT ticket #324,Closed,analyst1,2025-07-06,156
+TCK-2325,Critical,Synthetic IT ticket #325,In Progress,analyst2,2025-05-08,50
+TCK-2326,High,Synthetic IT ticket #326,Closed,it_admin,2025-04-15,5
+TCK-2327,Low,Synthetic IT ticket #327,Closed,analyst1,2025-09-25,141
+TCK-2328,Medium,Synthetic IT ticket #328,Closed,data_scientist,2025-07-23,109
+TCK-2329,High,Synthetic IT ticket #329,Resolved,analyst1,2025-05-30,134
+TCK-2330,Critical,Synthetic IT ticket #330,In Progress,analyst2,2025-07-25,118
+TCK-2331,Critical,Synthetic IT ticket #331,Resolved,it_admin,2025-07-03,188
+TCK-2332,Critical,Synthetic IT ticket #332,Resolved,it_admin,2025-05-15,11
+TCK-2333,Critical,Synthetic IT ticket #333,Open,analyst1,2025-10-18,143
+TCK-2334,High,Synthetic IT ticket #334,Assigned,analyst2,2025-06-22,18
+TCK-2335,High,Synthetic IT ticket #335,Open,it_admin,2025-07-06,45
+TCK-2336,Critical,Synthetic IT ticket #336,Resolved,data_scientist,2025-10-06,238
+TCK-2337,Low,Synthetic IT ticket #337,Closed,analyst1,2025-07-05,238
+TCK-2338,Low,Synthetic IT ticket #338,Closed,data_scientist,2025-06-23,65
+TCK-2339,Medium,Synthetic IT ticket #339,Resolved,analyst2,2025-08-14,141
+TCK-2340,Low,Synthetic IT ticket #340,Assigned,data_scientist,2025-10-02,171
+TCK-2341,High,Synthetic IT ticket #341,In Progress,analyst1,2025-07-16,174
+TCK-2342,Low,Synthetic IT ticket #342,Open,cyber_admin,2025-02-20,160
+TCK-2343,Medium,Synthetic IT ticket #343,Assigned,analyst1,2025-06-26,34
+TCK-2344,Low,Synthetic IT ticket #344,Closed,it_admin,2025-06-10,108
+TCK-2345,Low,Synthetic IT ticket #345,Resolved,data_scientist,2025-03-13,199
+TCK-2346,Critical,Synthetic IT ticket #346,Resolved,it_admin,2025-07-06,132
+TCK-2347,Critical,Synthetic IT ticket #347,In Progress,data_scientist,2025-04-14,78
+TCK-2348,Medium,Synthetic IT ticket #348,Closed,it_admin,2025-04-30,86
+TCK-2349,Low,Synthetic IT ticket #349,Assigned,analyst1,2025-03-29,48
+TCK-2350,Low,Synthetic IT ticket #350,Open,analyst2,2025-04-10,208
+TCK-2351,Low,Synthetic IT ticket #351,Open,it_admin,2025-06-04,209
+TCK-2352,Critical,Synthetic IT ticket #352,In Progress,it_admin,2025-10-12,27
+TCK-2353,Medium,Synthetic IT ticket #353,Assigned,analyst2,2025-04-10,68
+TCK-2354,Low,Synthetic IT ticket #354,In Progress,analyst1,2025-05-27,196
+TCK-2355,Critical,Synthetic IT ticket #355,Assigned,cyber_admin,2025-09-30,232
+TCK-2356,High,Synthetic IT ticket #356,Open,analyst1,2025-07-11,106
+TCK-2357,Medium,Synthetic IT ticket #357,Resolved,analyst2,2025-05-22,121
+TCK-2358,Low,Synthetic IT ticket #358,Open,data_scientist,2025-03-24,219
+TCK-2359,Critical,Synthetic IT ticket #359,Resolved,analyst2,2025-09-26,156
+TCK-2360,Medium,Synthetic IT ticket #360,Assigned,analyst2,2025-03-09,30
+TCK-2361,Medium,Synthetic IT ticket #361,Resolved,data_scientist,2025-03-26,155
+TCK-2362,Critical,Synthetic IT ticket #362,Open,analyst1,2025-05-24,171
+TCK-2363,Low,Synthetic IT ticket #363,Open,it_admin,2025-04-03,239
+TCK-2364,Medium,Synthetic IT ticket #364,Open,data_scientist,2025-08-31,218
+TCK-2365,Low,Synthetic IT ticket #365,Resolved,data_scientist,2025-03-12,31
+TCK-2366,High,Synthetic IT ticket #366,In Progress,it_admin,2025-10-07,136
+TCK-2367,Critical,Synthetic IT ticket #367,Resolved,cyber_admin,2025-07-30,63
+TCK-2368,Medium,Synthetic IT ticket #368,In Progress,it_admin,2025-08-11,164
+TCK-2369,Low,Synthetic IT ticket #369,Closed,cyber_admin,2025-07-05,26
+TCK-2370,Critical,Synthetic IT ticket #370,Open,it_admin,2025-10-05,8
+TCK-2371,Low,Synthetic IT ticket #371,In Progress,cyber_admin,2025-04-02,123
+TCK-2372,Medium,Synthetic IT ticket #372,Assigned,cyber_admin,2025-08-05,208
+TCK-2373,High,Synthetic IT ticket #373,Assigned,data_scientist,2025-10-31,170
+TCK-2374,Medium,Synthetic IT ticket #374,Assigned,cyber_admin,2025-11-12,7
+TCK-2375,Low,Synthetic IT ticket #375,Closed,analyst2,2025-10-30,53
+TCK-2376,Critical,Synthetic IT ticket #376,In Progress,data_scientist,2025-11-23,109
+TCK-2377,Low,Synthetic IT ticket #377,Resolved,data_scientist,2025-06-03,196
+TCK-2378,High,Synthetic IT ticket #378,Assigned,cyber_admin,2025-05-05,194
+TCK-2379,High,Synthetic IT ticket #379,Assigned,analyst1,2025-09-27,154
+TCK-2380,Low,Synthetic IT ticket #380,Assigned,analyst2,2025-12-06,128
+TCK-2381,High,Synthetic IT ticket #381,Open,it_admin,2025-04-08,201
+TCK-2382,Critical,Synthetic IT ticket #382,Resolved,analyst2,2025-09-01,234
+TCK-2383,Low,Synthetic IT ticket #383,Resolved,data_scientist,2025-11-15,178
+TCK-2384,Medium,Synthetic IT ticket #384,Closed,it_admin,2025-05-02,227
+TCK-2385,Critical,Synthetic IT ticket #385,Closed,it_admin,2025-06-07,184
+TCK-2386,Medium,Synthetic IT ticket #386,Open,analyst2,2025-03-04,49
+TCK-2387,Medium,Synthetic IT ticket #387,Closed,it_admin,2025-05-13,166
+TCK-2388,Low,Synthetic IT ticket #388,Closed,data_scientist,2025-02-19,39
+TCK-2389,High,Synthetic IT ticket #389,Closed,analyst2,2025-11-28,160
+TCK-2390,Medium,Synthetic IT ticket #390,Closed,analyst2,2025-04-26,107
+TCK-2391,High,Synthetic IT ticket #391,Resolved,cyber_admin,2025-06-22,42
+TCK-2392,Critical,Synthetic IT ticket #392,Resolved,analyst1,2025-02-18,197
+TCK-2393,Medium,Synthetic IT ticket #393,Assigned,cyber_admin,2025-03-02,23
+TCK-2394,Medium,Synthetic IT ticket #394,In Progress,it_admin,2025-08-24,220
+TCK-2395,Medium,Synthetic IT ticket #395,Assigned,data_scientist,2025-03-13,155
+TCK-2396,Critical,Synthetic IT ticket #396,Resolved,cyber_admin,2025-07-11,94
+TCK-2397,Medium,Synthetic IT ticket #397,Assigned,analyst2,2025-09-03,196
+TCK-2398,High,Synthetic IT ticket #398,Assigned,analyst2,2025-06-29,128
+TCK-2399,Low,Synthetic IT ticket #399,Assigned,it_admin,2025-05-21,57
+TCK-2400,Critical,Synthetic IT ticket #400,Closed,data_scientist,2025-02-17,208
+TCK-2401,Critical,Synthetic IT ticket #401,Closed,analyst2,2025-04-13,3
+TCK-2402,Critical,Synthetic IT ticket #402,In Progress,data_scientist,2025-04-30,109
+TCK-2403,High,Synthetic IT ticket #403,In Progress,data_scientist,2025-06-10,182
+TCK-2404,Medium,Synthetic IT ticket #404,Open,it_admin,2025-11-07,235
+TCK-2405,Medium,Synthetic IT ticket #405,Open,analyst2,2025-06-24,63
+TCK-2406,High,Synthetic IT ticket #406,Closed,analyst1,2025-12-04,80
+TCK-2407,High,Synthetic IT ticket #407,In Progress,cyber_admin,2025-04-13,219
+TCK-2408,Critical,Synthetic IT ticket #408,Resolved,analyst2,2025-06-20,222
+TCK-2409,Medium,Synthetic IT ticket #409,In Progress,it_admin,2025-04-10,70
+TCK-2410,Low,Synthetic IT ticket #410,Closed,it_admin,2025-07-10,132
+TCK-2411,Critical,Synthetic IT ticket #411,Open,it_admin,2025-08-06,138
+TCK-2412,Low,Synthetic IT ticket #412,Open,analyst2,2025-08-03,31
+TCK-2413,Medium,Synthetic IT ticket #413,In Progress,analyst2,2025-09-10,101
+TCK-2414,High,Synthetic IT ticket #414,Open,data_scientist,2025-02-18,116
+TCK-2415,Low,Synthetic IT ticket #415,Open,analyst2,2025-08-05,162
+TCK-2416,Critical,Synthetic IT ticket #416,Open,analyst1,2025-03-12,98
+TCK-2417,Low,Synthetic IT ticket #417,Assigned,cyber_admin,2025-07-20,44
+TCK-2418,Critical,Synthetic IT ticket #418,Assigned,data_scientist,2025-03-29,26
+TCK-2419,High,Synthetic IT ticket #419,In Progress,analyst2,2025-11-26,73
+TCK-2420,Low,Synthetic IT ticket #420,Open,data_scientist,2025-03-05,230
+TCK-2421,Low,Synthetic IT ticket #421,In Progress,it_admin,2025-06-21,125
+TCK-2422,High,Synthetic IT ticket #422,Resolved,analyst2,2025-10-09,132
+TCK-2423,Low,Synthetic IT ticket #423,Closed,cyber_admin,2025-04-28,114
+TCK-2424,High,Synthetic IT ticket #424,Closed,analyst2,2025-10-14,66
+TCK-2425,Medium,Synthetic IT ticket #425,Assigned,it_admin,2025-09-24,134
+TCK-2426,Low,Synthetic IT ticket #426,In Progress,data_scientist,2025-03-21,97
+TCK-2427,Critical,Synthetic IT ticket #427,Resolved,analyst1,2025-03-20,116
+TCK-2428,Critical,Synthetic IT ticket #428,In Progress,analyst1,2025-03-13,133
+TCK-2429,Low,Synthetic IT ticket #429,Open,analyst2,2025-03-29,59
+TCK-2430,High,Synthetic IT ticket #430,Assigned,analyst1,2025-10-27,15
+TCK-2431,Low,Synthetic IT ticket #431,Closed,analyst1,2025-05-08,128
+TCK-2432,Medium,Synthetic IT ticket #432,Open,analyst2,2025-09-11,75
+TCK-2433,Low,Synthetic IT ticket #433,Assigned,analyst2,2025-11-05,185
+TCK-2434,Medium,Synthetic IT ticket #434,Resolved,analyst1,2025-12-10,47
+TCK-2435,High,Synthetic IT ticket #435,Closed,analyst1,2025-07-06,86
+TCK-2436,High,Synthetic IT ticket #436,In Progress,analyst1,2025-11-11,175
+TCK-2437,Critical,Synthetic IT ticket #437,Open,cyber_admin,2025-06-11,174
+TCK-2438,Low,Synthetic IT ticket #438,Assigned,it_admin,2025-04-19,58
+TCK-2439,Medium,Synthetic IT ticket #439,Resolved,data_scientist,2025-08-14,152
+TCK-2440,High,Synthetic IT ticket #440,In Progress,analyst1,2025-12-10,95
+TCK-2441,Medium,Synthetic IT ticket #441,Resolved,cyber_admin,2025-11-01,15
+TCK-2442,Low,Synthetic IT ticket #442,Closed,analyst1,2025-12-13,210
+TCK-2443,High,Synthetic IT ticket #443,Resolved,cyber_admin,2025-03-31,229
+TCK-2444,Low,Synthetic IT ticket #444,Resolved,it_admin,2025-11-26,237
+TCK-2445,Low,Synthetic IT ticket #445,Open,analyst2,2025-06-03,33
+TCK-2446,Low,Synthetic IT ticket #446,Resolved,analyst2,2025-03-18,132
+TCK-2447,Medium,Synthetic IT ticket #447,Closed,it_admin,2025-07-29,170
+TCK-2448,Critical,Synthetic IT ticket #448,Closed,it_admin,2025-08-18,73
+TCK-2449,Low,Synthetic IT ticket #449,Assigned,it_admin,2025-03-13,130
+TCK-2450,Medium,Synthetic IT ticket #450,Resolved,data_scientist,2025-04-29,153
+TCK-2451,High,Synthetic IT ticket #451,Open,cyber_admin,2025-10-17,115
+TCK-2452,High,Synthetic IT ticket #452,In Progress,data_scientist,2025-04-19,88
+TCK-2453,Critical,Synthetic IT ticket #453,In Progress,analyst2,2025-06-22,185
+TCK-2454,Medium,Synthetic IT ticket #454,Assigned,analyst2,2025-09-18,2
+TCK-2455,Low,Synthetic IT ticket #455,Closed,cyber_admin,2025-04-19,119
+TCK-2456,Medium,Synthetic IT ticket #456,Assigned,it_admin,2025-03-20,11
+TCK-2457,Medium,Synthetic IT ticket #457,Assigned,cyber_admin,2025-06-18,233
+TCK-2458,Low,Synthetic IT ticket #458,Open,cyber_admin,2025-04-18,167
+TCK-2459,Medium,Synthetic IT ticket #459,In Progress,it_admin,2025-02-27,141
+TCK-2460,Low,Synthetic IT ticket #460,Resolved,data_scientist,2025-05-19,115
+TCK-2461,Critical,Synthetic IT ticket #461,Closed,data_scientist,2025-10-21,8
+TCK-2462,Medium,Synthetic IT ticket #462,In Progress,analyst1,2025-04-30,158
+TCK-2463,Medium,Synthetic IT ticket #463,Resolved,analyst1,2025-09-12,3
+TCK-2464,Critical,Synthetic IT ticket #464,In Progress,analyst1,2025-07-13,201
+TCK-2465,Medium,Synthetic IT ticket #465,Open,analyst1,2025-03-08,137
+TCK-2466,High,Synthetic IT ticket #466,Assigned,data_scientist,2025-05-10,84
+TCK-2467,Medium,Synthetic IT ticket #467,Assigned,it_admin,2025-05-20,139
+TCK-2468,High,Synthetic IT ticket #468,In Progress,data_scientist,2025-04-08,232
+TCK-2469,High,Synthetic IT ticket #469,Assigned,analyst1,2025-04-03,177
+TCK-2470,Low,Synthetic IT ticket #470,Resolved,analyst2,2025-07-03,233
+TCK-2471,Medium,Synthetic IT ticket #471,Closed,cyber_admin,2025-09-24,114
+TCK-2472,Low,Synthetic IT ticket #472,Assigned,analyst1,2025-02-19,15
+TCK-2473,Critical,Synthetic IT ticket #473,Assigned,it_admin,2025-10-14,12
+TCK-2474,Critical,Synthetic IT ticket #474,Closed,data_scientist,2025-11-27,104
+TCK-2475,Critical,Synthetic IT ticket #475,Closed,analyst1,2025-06-28,111
+TCK-2476,High,Synthetic IT ticket #476,Assigned,cyber_admin,2025-03-20,196
+TCK-2477,Critical,Synthetic IT ticket #477,In Progress,it_admin,2025-04-17,125
+TCK-2478,Low,Synthetic IT ticket #478,Assigned,data_scientist,2025-07-02,26
+TCK-2479,Critical,Synthetic IT ticket #479,Closed,it_admin,2025-09-04,199
+TCK-2480,Low,Synthetic IT ticket #480,Open,data_scientist,2025-11-15,7
+TCK-2481,Medium,Synthetic IT ticket #481,Assigned,cyber_admin,2025-06-28,32
+TCK-2482,Medium,Synthetic IT ticket #482,Open,data_scientist,2025-05-04,122
+TCK-2483,Critical,Synthetic IT ticket #483,Closed,analyst1,2025-07-11,27
+TCK-2484,Medium,Synthetic IT ticket #484,In Progress,cyber_admin,2025-04-13,139
+TCK-2485,Low,Synthetic IT ticket #485,In Progress,data_scientist,2025-08-20,198
+TCK-2486,High,Synthetic IT ticket #486,Open,data_scientist,2025-09-15,57
+TCK-2487,Low,Synthetic IT ticket #487,In Progress,analyst2,2025-12-01,24
+TCK-2488,Medium,Synthetic IT ticket #488,Assigned,analyst2,2025-03-30,76
+TCK-2489,Medium,Synthetic IT ticket #489,Open,cyber_admin,2025-05-23,10
+TCK-2490,High,Synthetic IT ticket #490,In Progress,it_admin,2025-04-19,24
+TCK-2491,Low,Synthetic IT ticket #491,Closed,analyst1,2025-05-04,35
+TCK-2492,High,Synthetic IT ticket #492,Closed,cyber_admin,2025-06-15,178
+TCK-2493,Low,Synthetic IT ticket #493,Resolved,it_admin,2025-11-11,135
+TCK-2494,Low,Synthetic IT ticket #494,Open,analyst2,2025-10-09,156
+TCK-2495,Critical,Synthetic IT ticket #495,Open,it_admin,2025-09-17,153
+TCK-2496,Medium,Synthetic IT ticket #496,In Progress,analyst2,2025-07-21,227
+TCK-2497,Critical,Synthetic IT ticket #497,Closed,analyst1,2025-07-18,87
+TCK-2498,Medium,Synthetic IT ticket #498,Assigned,analyst1,2025-02-23,178
+TCK-2499,High,Synthetic IT ticket #499,Assigned,data_scientist,2025-02-21,163
+TCK-2500,High,Synthetic IT ticket #500,In Progress,it_admin,2025-09-04,161
+TCK-2501,Medium,Synthetic IT ticket #501,In Progress,analyst1,2025-12-10,79
+TCK-2502,High,Synthetic IT ticket #502,Assigned,cyber_admin,2025-05-02,37
+TCK-2503,High,Synthetic IT ticket #503,Assigned,cyber_admin,2025-08-03,8
+TCK-2504,Medium,Synthetic IT ticket #504,In Progress,it_admin,2025-09-10,96
+TCK-2505,Medium,Synthetic IT ticket #505,Resolved,cyber_admin,2025-10-05,188
+TCK-2506,Medium,Synthetic IT ticket #506,Open,data_scientist,2025-07-19,97
+TCK-2507,High,Synthetic IT ticket #507,Assigned,analyst2,2025-09-17,71
+TCK-2508,Critical,Synthetic IT ticket #508,Resolved,analyst2,2025-02-18,61
+TCK-2509,Medium,Synthetic IT ticket #509,Assigned,data_scientist,2025-06-18,37
+TCK-2510,High,Synthetic IT ticket #510,Open,analyst2,2025-09-03,9
+TCK-2511,Medium,Synthetic IT ticket #511,In Progress,data_scientist,2025-03-07,157
+TCK-2512,High,Synthetic IT ticket #512,Resolved,it_admin,2025-10-10,137
+TCK-2513,Medium,Synthetic IT ticket #513,Open,analyst2,2025-04-03,176
+TCK-2514,Low,Synthetic IT ticket #514,Resolved,data_scientist,2025-12-01,172
+TCK-2515,Low,Synthetic IT ticket #515,Closed,data_scientist,2025-08-27,198
+TCK-2516,Low,Synthetic IT ticket #516,Resolved,analyst2,2025-11-07,46
+TCK-2517,Medium,Synthetic IT ticket #517,In Progress,cyber_admin,2025-08-26,38
+TCK-2518,Critical,Synthetic IT ticket #518,Assigned,it_admin,2025-10-28,13
+TCK-2519,Low,Synthetic IT ticket #519,In Progress,analyst1,2025-09-04,100
+TCK-2520,Medium,Synthetic IT ticket #520,Open,analyst2,2025-04-30,182
+TCK-2521,High,Synthetic IT ticket #521,Closed,cyber_admin,2025-06-30,129
+TCK-2522,Critical,Synthetic IT ticket #522,Assigned,analyst1,2025-04-13,151
+TCK-2523,High,Synthetic IT ticket #523,Assigned,cyber_admin,2025-07-29,161
+TCK-2524,High,Synthetic IT ticket #524,In Progress,cyber_admin,2025-05-09,87
+TCK-2525,Medium,Synthetic IT ticket #525,Open,analyst2,2025-07-31,232
+TCK-2526,High,Synthetic IT ticket #526,Assigned,cyber_admin,2025-10-11,146
+TCK-2527,Medium,Synthetic IT ticket #527,In Progress,analyst1,2025-06-13,77
+TCK-2528,High,Synthetic IT ticket #528,In Progress,it_admin,2025-04-01,61
+TCK-2529,Low,Synthetic IT ticket #529,In Progress,cyber_admin,2025-07-23,102
+TCK-2530,Medium,Synthetic IT ticket #530,Open,cyber_admin,2025-04-24,55
+TCK-2531,Medium,Synthetic IT ticket #531,Open,cyber_admin,2025-03-06,135
+TCK-2532,Low,Synthetic IT ticket #532,Open,it_admin,2025-04-27,184
+TCK-2533,High,Synthetic IT ticket #533,Resolved,cyber_admin,2025-09-08,125
+TCK-2534,Medium,Synthetic IT ticket #534,Resolved,cyber_admin,2025-11-23,165
+TCK-2535,Medium,Synthetic IT ticket #535,In Progress,it_admin,2025-05-05,48
+TCK-2536,Critical,Synthetic IT ticket #536,Closed,cyber_admin,2025-06-18,171
+TCK-2537,Critical,Synthetic IT ticket #537,Closed,analyst1,2025-03-30,216
+TCK-2538,Low,Synthetic IT ticket #538,Open,cyber_admin,2025-04-07,67
+TCK-2539,High,Synthetic IT ticket #539,Assigned,analyst2,2025-05-21,46
+TCK-2540,Medium,Synthetic IT ticket #540,Resolved,cyber_admin,2025-11-08,6
+TCK-2541,High,Synthetic IT ticket #541,Open,data_scientist,2025-10-20,162
+TCK-2542,Low,Synthetic IT ticket #542,Assigned,analyst1,2025-11-21,195
+TCK-2543,Low,Synthetic IT ticket #543,Closed,analyst2,2025-04-13,190
+TCK-2544,High,Synthetic IT ticket #544,In Progress,data_scientist,2025-11-19,77
+TCK-2545,Medium,Synthetic IT ticket #545,Resolved,data_scientist,2025-10-08,190
+TCK-2546,High,Synthetic IT ticket #546,Open,analyst1,2025-07-20,143
+TCK-2547,Low,Synthetic IT ticket #547,In Progress,data_scientist,2025-03-19,230
+TCK-2548,Critical,Synthetic IT ticket #548,In Progress,data_scientist,2025-03-06,8
+TCK-2549,Low,Synthetic IT ticket #549,Assigned,data_scientist,2025-09-19,30
+TCK-2550,Low,Synthetic IT ticket #550,Resolved,it_admin,2025-10-22,227
+TCK-2551,Medium,Synthetic IT ticket #551,Open,data_scientist,2025-12-11,26
+TCK-2552,Critical,Synthetic IT ticket #552,Open,data_scientist,2025-12-11,9
+TCK-2553,High,Synthetic IT ticket #553,Open,cyber_admin,2025-02-23,71
+TCK-2554,Medium,Synthetic IT ticket #554,Closed,analyst1,2025-11-01,221
+TCK-2555,Medium,Synthetic IT ticket #555,Open,analyst1,2025-07-08,173
+TCK-2556,Medium,Synthetic IT ticket #556,Resolved,cyber_admin,2025-08-08,106
+TCK-2557,Low,Synthetic IT ticket #557,Resolved,it_admin,2025-08-28,46
+TCK-2558,Critical,Synthetic IT ticket #558,Open,data_scientist,2025-11-24,151
+TCK-2559,Critical,Synthetic IT ticket #559,Closed,analyst1,2025-04-27,26
+TCK-2560,Low,Synthetic IT ticket #560,Open,analyst2,2025-06-03,53
+TCK-2561,Critical,Synthetic IT ticket #561,Resolved,analyst1,2025-10-08,203
+TCK-2562,Medium,Synthetic IT ticket #562,Resolved,cyber_admin,2025-07-06,39
+TCK-2563,Critical,Synthetic IT ticket #563,Open,analyst1,2025-06-13,116
+TCK-2564,Low,Synthetic IT ticket #564,In Progress,it_admin,2025-09-25,224
+TCK-2565,High,Synthetic IT ticket #565,Closed,cyber_admin,2025-03-27,222
+TCK-2566,Low,Synthetic IT ticket #566,Closed,it_admin,2025-11-11,109
+TCK-2567,Critical,Synthetic IT ticket #567,Resolved,analyst1,2025-11-19,197
+TCK-2568,Low,Synthetic IT ticket #568,Closed,cyber_admin,2025-04-11,27
+TCK-2569,Medium,Synthetic IT ticket #569,Resolved,data_scientist,2025-04-28,76
+TCK-2570,Low,Synthetic IT ticket #570,In Progress,data_scientist,2025-11-28,227
+TCK-2571,Critical,Synthetic IT ticket #571,Assigned,it_admin,2025-10-16,61
+TCK-2572,High,Synthetic IT ticket #572,Assigned,cyber_admin,2025-08-02,65
+TCK-2573,Low,Synthetic IT ticket #573,Open,data_scientist,2025-09-09,205
+TCK-2574,Low,Synthetic IT ticket #574,Assigned,cyber_admin,2025-06-04,13
+TCK-2575,Medium,Synthetic IT ticket #575,Closed,analyst1,2025-08-20,11
+TCK-2576,Medium,Synthetic IT ticket #576,Assigned,cyber_admin,2025-06-02,165
+TCK-2577,High,Synthetic IT ticket #577,Resolved,it_admin,2025-04-25,228
+TCK-2578,Low,Synthetic IT ticket #578,Open,cyber_admin,2025-08-28,169
+TCK-2579,Medium,Synthetic IT ticket #579,Closed,data_scientist,2025-11-05,227
+TCK-2580,High,Synthetic IT ticket #580,Closed,cyber_admin,2025-10-21,169
+TCK-2581,Medium,Synthetic IT ticket #581,Closed,cyber_admin,2025-09-20,123
+TCK-2582,Medium,Synthetic IT ticket #582,In Progress,data_scientist,2025-08-31,23
+TCK-2583,Low,Synthetic IT ticket #583,Open,it_admin,2025-06-27,68
+TCK-2584,Critical,Synthetic IT ticket #584,Resolved,analyst1,2025-11-03,45
+TCK-2585,Critical,Synthetic IT ticket #585,Resolved,analyst2,2025-05-25,49
+TCK-2586,Low,Synthetic IT ticket #586,Assigned,analyst1,2025-06-09,94
+TCK-2587,High,Synthetic IT ticket #587,Open,it_admin,2025-09-01,81
+TCK-2588,Medium,Synthetic IT ticket #588,Resolved,data_scientist,2025-06-11,125
+TCK-2589,Low,Synthetic IT ticket #589,Closed,analyst1,2025-11-07,73
+TCK-2590,Critical,Synthetic IT ticket #590,Assigned,it_admin,2025-04-20,202
+TCK-2591,Low,Synthetic IT ticket #591,Assigned,cyber_admin,2025-10-16,134
+TCK-2592,Low,Synthetic IT ticket #592,Assigned,analyst1,2025-11-12,200
+TCK-2593,Medium,Synthetic IT ticket #593,Closed,analyst2,2025-06-16,58
+TCK-2594,High,Synthetic IT ticket #594,Closed,cyber_admin,2025-10-29,44
+TCK-2595,High,Synthetic IT ticket #595,Resolved,analyst1,2025-03-15,176
+TCK-2596,Low,Synthetic IT ticket #596,In Progress,analyst2,2025-09-03,189
+TCK-2597,High,Synthetic IT ticket #597,Closed,it_admin,2025-03-04,194
+TCK-2598,Low,Synthetic IT ticket #598,Resolved,data_scientist,2025-06-11,3
+TCK-2599,High,Synthetic IT ticket #599,In Progress,analyst1,2025-10-10,23
+TCK-2600,High,Synthetic IT ticket #600,Closed,cyber_admin,2025-03-01,134
+TCK-2601,Low,Synthetic IT ticket #601,Assigned,it_admin,2025-12-07,182
+TCK-2602,Low,Synthetic IT ticket #602,Resolved,it_admin,2025-04-03,121
+TCK-2603,Medium,Synthetic IT ticket #603,Closed,cyber_admin,2025-03-17,191
+TCK-2604,Critical,Synthetic IT ticket #604,Assigned,analyst1,2025-08-27,138
+TCK-2605,Critical,Synthetic IT ticket #605,In Progress,analyst2,2025-11-25,150
+TCK-2606,Low,Synthetic IT ticket #606,Open,analyst2,2025-03-03,173
+TCK-2607,High,Synthetic IT ticket #607,Assigned,it_admin,2025-08-03,96
+TCK-2608,High,Synthetic IT ticket #608,Resolved,analyst1,2025-06-22,205
+TCK-2609,High,Synthetic IT ticket #609,In Progress,data_scientist,2025-03-03,233
+TCK-2610,Medium,Synthetic IT ticket #610,Open,data_scientist,2025-06-25,184
+TCK-2611,High,Synthetic IT ticket #611,Assigned,it_admin,2025-04-19,220
+TCK-2612,Low,Synthetic IT ticket #612,Resolved,analyst2,2025-06-26,67
+TCK-2613,High,Synthetic IT ticket #613,In Progress,analyst2,2025-10-15,128
+TCK-2614,High,Synthetic IT ticket #614,Open,analyst1,2025-03-22,17
+TCK-2615,Critical,Synthetic IT ticket #615,Closed,cyber_admin,2025-09-17,106
+TCK-2616,High,Synthetic IT ticket #616,Assigned,analyst2,2025-09-23,33
+TCK-2617,Critical,Synthetic IT ticket #617,Assigned,analyst1,2025-05-12,15
+TCK-2618,Critical,Synthetic IT ticket #618,Assigned,analyst2,2025-10-29,137
+TCK-2619,Medium,Synthetic IT ticket #619,Closed,analyst1,2025-05-19,186
+TCK-2620,Critical,Synthetic IT ticket #620,Resolved,analyst2,2025-11-30,202
+TCK-2621,High,Synthetic IT ticket #621,Resolved,cyber_admin,2025-06-28,8
+TCK-2622,Critical,Synthetic IT ticket #622,Assigned,it_admin,2025-08-08,203
+TCK-2623,High,Synthetic IT ticket #623,Open,analyst2,2025-03-16,134
+TCK-2624,Low,Synthetic IT ticket #624,Resolved,cyber_admin,2025-09-06,88
+TCK-2625,Medium,Synthetic IT ticket #625,Open,analyst1,2025-02-19,65
+TCK-2626,Medium,Synthetic IT ticket #626,Closed,cyber_admin,2025-11-02,214
+TCK-2627,High,Synthetic IT ticket #627,In Progress,it_admin,2025-05-26,4
+TCK-2628,High,Synthetic IT ticket #628,In Progress,it_admin,2025-07-02,91
+TCK-2629,Critical,Synthetic IT ticket #629,Resolved,data_scientist,2025-11-22,88
+TCK-2630,Low,Synthetic IT ticket #630,Open,data_scientist,2025-09-09,189
+TCK-2631,Medium,Synthetic IT ticket #631,Open,it_admin,2025-08-09,180
+TCK-2632,Medium,Synthetic IT ticket #632,Assigned,analyst1,2025-11-26,79
+TCK-2633,Medium,Synthetic IT ticket #633,Closed,it_admin,2025-04-20,240
+TCK-2634,Low,Synthetic IT ticket #634,Open,analyst2,2025-09-18,9
+TCK-2635,Medium,Synthetic IT ticket #635,Open,data_scientist,2025-05-21,53
+TCK-2636,Low,Synthetic IT ticket #636,Closed,cyber_admin,2025-09-10,57
+TCK-2637,Medium,Synthetic IT ticket #637,Resolved,analyst2,2025-04-26,24
+TCK-2638,Critical,Synthetic IT ticket #638,Closed,cyber_admin,2025-08-14,87
+TCK-2639,Critical,Synthetic IT ticket #639,In Progress,analyst2,2025-07-20,230
+TCK-2640,Critical,Synthetic IT ticket #640,Assigned,analyst1,2025-08-18,108
+TCK-2641,High,Synthetic IT ticket #641,Assigned,cyber_admin,2025-09-12,216
+TCK-2642,High,Synthetic IT ticket #642,Resolved,analyst2,2025-07-19,165
+TCK-2643,Medium,Synthetic IT ticket #643,In Progress,it_admin,2025-07-05,12
+TCK-2644,Low,Synthetic IT ticket #644,Closed,analyst1,2025-06-04,135
+TCK-2645,Medium,Synthetic IT ticket #645,Closed,data_scientist,2025-04-15,91
+TCK-2646,Low,Synthetic IT ticket #646,In Progress,data_scientist,2025-04-19,189
+TCK-2647,Critical,Synthetic IT ticket #647,Open,data_scientist,2025-04-30,210
+TCK-2648,High,Synthetic IT ticket #648,Assigned,analyst2,2025-08-06,178
+TCK-2649,Critical,Synthetic IT ticket #649,Closed,data_scientist,2025-07-17,153
+TCK-2650,Critical,Synthetic IT ticket #650,Closed,data_scientist,2025-09-01,95
+TCK-2651,Critical,Synthetic IT ticket #651,Assigned,it_admin,2025-06-17,75
+TCK-2652,Medium,Synthetic IT ticket #652,Resolved,cyber_admin,2025-10-28,137
+TCK-2653,High,Synthetic IT ticket #653,Closed,analyst2,2025-03-28,91
+TCK-2654,Low,Synthetic IT ticket #654,In Progress,cyber_admin,2025-07-05,165
+TCK-2655,Medium,Synthetic IT ticket #655,Open,data_scientist,2025-10-04,164
+TCK-2656,Low,Synthetic IT ticket #656,Closed,cyber_admin,2025-07-18,58
+TCK-2657,Medium,Synthetic IT ticket #657,Closed,analyst1,2025-09-23,16
+TCK-2658,Critical,Synthetic IT ticket #658,Resolved,it_admin,2025-11-03,93
+TCK-2659,Critical,Synthetic IT ticket #659,Assigned,analyst1,2025-09-25,154
+TCK-2660,Critical,Synthetic IT ticket #660,Open,analyst2,2025-11-29,11
+TCK-2661,Critical,Synthetic IT ticket #661,In Progress,cyber_admin,2025-06-27,202
+TCK-2662,High,Synthetic IT ticket #662,Open,cyber_admin,2025-11-18,189
+TCK-2663,Medium,Synthetic IT ticket #663,Assigned,it_admin,2025-09-19,140
+TCK-2664,Critical,Synthetic IT ticket #664,In Progress,analyst1,2025-02-17,24
+TCK-2665,High,Synthetic IT ticket #665,Closed,it_admin,2025-05-06,12
+TCK-2666,Medium,Synthetic IT ticket #666,Resolved,analyst2,2025-08-13,188
+TCK-2667,High,Synthetic IT ticket #667,In Progress,it_admin,2025-07-08,39
+TCK-2668,High,Synthetic IT ticket #668,Assigned,analyst1,2025-07-19,65
+TCK-2669,Medium,Synthetic IT ticket #669,Assigned,analyst2,2025-05-24,121
+TCK-2670,Low,Synthetic IT ticket #670,Resolved,data_scientist,2025-10-18,132
+TCK-2671,Medium,Synthetic IT ticket #671,In Progress,data_scientist,2025-02-28,180
+TCK-2672,High,Synthetic IT ticket #672,Open,data_scientist,2025-10-27,69
+TCK-2673,Low,Synthetic IT ticket #673,Closed,analyst1,2025-11-27,202
+TCK-2674,Low,Synthetic IT ticket #674,Closed,it_admin,2025-06-30,145
+TCK-2675,Low,Synthetic IT ticket #675,Assigned,data_scientist,2025-12-12,6
+TCK-2676,Medium,Synthetic IT ticket #676,Closed,cyber_admin,2025-08-16,56
+TCK-2677,Low,Synthetic IT ticket #677,Assigned,it_admin,2025-06-02,93
+TCK-2678,Critical,Synthetic IT ticket #678,Closed,analyst1,2025-04-01,145
+TCK-2679,Medium,Synthetic IT ticket #679,Resolved,cyber_admin,2025-06-17,35
+TCK-2680,High,Synthetic IT ticket #680,Open,data_scientist,2025-08-17,29
+TCK-2681,High,Synthetic IT ticket #681,Assigned,analyst1,2025-12-11,108
+TCK-2682,Low,Synthetic IT ticket #682,Resolved,cyber_admin,2025-08-17,199
+TCK-2683,Critical,Synthetic IT ticket #683,In Progress,it_admin,2025-10-07,146
+TCK-2684,Medium,Synthetic IT ticket #684,Closed,data_scientist,2025-03-31,92
+TCK-2685,Low,Synthetic IT ticket #685,Assigned,analyst2,2025-05-16,142
+TCK-2686,Medium,Synthetic IT ticket #686,Closed,analyst2,2025-10-18,86
+TCK-2687,Critical,Synthetic IT ticket #687,Closed,analyst2,2025-07-09,232
+TCK-2688,Critical,Synthetic IT ticket #688,Closed,cyber_admin,2025-10-14,211
+TCK-2689,Low,Synthetic IT ticket #689,In Progress,it_admin,2025-07-15,67
+TCK-2690,Medium,Synthetic IT ticket #690,Open,analyst2,2025-04-27,12
+TCK-2691,High,Synthetic IT ticket #691,Open,analyst2,2025-08-23,97
+TCK-2692,High,Synthetic IT ticket #692,Closed,it_admin,2025-11-01,173
+TCK-2693,Critical,Synthetic IT ticket #693,Assigned,data_scientist,2025-08-03,151
+TCK-2694,High,Synthetic IT ticket #694,Open,cyber_admin,2025-05-29,129
+TCK-2695,Medium,Synthetic IT ticket #695,Closed,cyber_admin,2025-09-28,168
+TCK-2696,Critical,Synthetic IT ticket #696,Resolved,data_scientist,2025-10-16,1
+TCK-2697,Low,Synthetic IT ticket #697,Open,it_admin,2025-02-26,51
+TCK-2698,Medium,Synthetic IT ticket #698,Closed,analyst2,2025-10-13,219
+TCK-2699,Critical,Synthetic IT ticket #699,In Progress,it_admin,2025-02-19,72
+TCK-2700,Low,Synthetic IT ticket #700,Closed,data_scientist,2025-10-08,1
+TCK-2701,Critical,Synthetic IT ticket #701,Closed,cyber_admin,2025-06-11,226
+TCK-2702,Critical,Synthetic IT ticket #702,In Progress,cyber_admin,2025-11-18,53
+TCK-2703,Medium,Synthetic IT ticket #703,Assigned,it_admin,2025-10-19,80
+TCK-2704,High,Synthetic IT ticket #704,Resolved,data_scientist,2025-05-21,231
+TCK-2705,Critical,Synthetic IT ticket #705,Open,cyber_admin,2025-11-03,91
+TCK-2706,Medium,Synthetic IT ticket #706,Closed,analyst1,2025-11-25,223
+TCK-2707,High,Synthetic IT ticket #707,Resolved,cyber_admin,2025-05-07,230
+TCK-2708,Critical,Synthetic IT ticket #708,Resolved,data_scientist,2025-09-26,231
+TCK-2709,Low,Synthetic IT ticket #709,Assigned,data_scientist,2025-11-19,111
+TCK-2710,High,Synthetic IT ticket #710,In Progress,cyber_admin,2025-02-22,171
+TCK-2711,Low,Synthetic IT ticket #711,In Progress,cyber_admin,2025-04-08,114
+TCK-2712,Critical,Synthetic IT ticket #712,In Progress,it_admin,2025-03-02,16
+TCK-2713,Low,Synthetic IT ticket #713,In Progress,data_scientist,2025-09-19,57
+TCK-2714,Medium,Synthetic IT ticket #714,Assigned,analyst1,2025-06-25,40
+TCK-2715,Medium,Synthetic IT ticket #715,Open,analyst1,2025-06-19,132
+TCK-2716,Low,Synthetic IT ticket #716,In Progress,it_admin,2025-11-19,208
+TCK-2717,Medium,Synthetic IT ticket #717,Assigned,data_scientist,2025-12-04,131
+TCK-2718,Critical,Synthetic IT ticket #718,Assigned,cyber_admin,2025-03-09,218
+TCK-2719,Critical,Synthetic IT ticket #719,Closed,it_admin,2025-11-28,102
+TCK-2720,Critical,Synthetic IT ticket #720,Open,cyber_admin,2025-09-26,180
+TCK-2721,Medium,Synthetic IT ticket #721,Closed,cyber_admin,2025-10-26,122
+TCK-2722,High,Synthetic IT ticket #722,In Progress,it_admin,2025-08-30,173
+TCK-2723,Critical,Synthetic IT ticket #723,In Progress,analyst1,2025-11-26,189
+TCK-2724,Medium,Synthetic IT ticket #724,Open,data_scientist,2025-08-14,11
+TCK-2725,Low,Synthetic IT ticket #725,Assigned,it_admin,2025-02-28,135
+TCK-2726,High,Synthetic IT ticket #726,In Progress,it_admin,2025-11-17,169
+TCK-2727,Medium,Synthetic IT ticket #727,Resolved,data_scientist,2025-03-19,40
+TCK-2728,Critical,Synthetic IT ticket #728,Open,analyst2,2025-02-26,129
+TCK-2729,Critical,Synthetic IT ticket #729,Assigned,it_admin,2025-11-03,221
+TCK-2730,Critical,Synthetic IT ticket #730,Open,it_admin,2025-09-18,77
+TCK-2731,Critical,Synthetic IT ticket #731,In Progress,cyber_admin,2025-04-23,127
+TCK-2732,High,Synthetic IT ticket #732,In Progress,analyst1,2025-05-10,101
+TCK-2733,High,Synthetic IT ticket #733,Resolved,cyber_admin,2025-12-02,202
+TCK-2734,Low,Synthetic IT ticket #734,Closed,data_scientist,2025-08-20,164
+TCK-2735,Low,Synthetic IT ticket #735,Assigned,cyber_admin,2025-12-09,32
+TCK-2736,Critical,Synthetic IT ticket #736,Assigned,analyst1,2025-09-17,108
+TCK-2737,Low,Synthetic IT ticket #737,Open,analyst1,2025-11-19,238
+TCK-2738,Low,Synthetic IT ticket #738,Assigned,cyber_admin,2025-02-26,176
+TCK-2739,Critical,Synthetic IT ticket #739,Assigned,it_admin,2025-09-02,94
+TCK-2740,Low,Synthetic IT ticket #740,Closed,it_admin,2025-10-09,82
+TCK-2741,Medium,Synthetic IT ticket #741,Closed,analyst2,2025-11-06,177
+TCK-2742,Low,Synthetic IT ticket #742,Assigned,data_scientist,2025-06-21,86
+TCK-2743,Critical,Synthetic IT ticket #743,Open,analyst2,2025-10-09,31
+TCK-2744,Critical,Synthetic IT ticket #744,Closed,it_admin,2025-07-05,98
+TCK-2745,Medium,Synthetic IT ticket #745,Closed,cyber_admin,2025-11-02,63
+TCK-2746,Low,Synthetic IT ticket #746,Open,it_admin,2025-06-14,198
+TCK-2747,Medium,Synthetic IT ticket #747,Assigned,cyber_admin,2025-07-26,2
+TCK-2748,High,Synthetic IT ticket #748,Assigned,it_admin,2025-12-03,122
+TCK-2749,Medium,Synthetic IT ticket #749,Open,data_scientist,2025-06-29,77
+TCK-2750,Critical,Synthetic IT ticket #750,Open,it_admin,2025-08-27,159
+TCK-2751,Medium,Synthetic IT ticket #751,Resolved,analyst2,2025-10-29,151
+TCK-2752,High,Synthetic IT ticket #752,Resolved,analyst2,2025-08-27,35
+TCK-2753,Low,Synthetic IT ticket #753,Closed,analyst2,2025-10-04,230
+TCK-2754,High,Synthetic IT ticket #754,Open,data_scientist,2025-11-17,49
+TCK-2755,Low,Synthetic IT ticket #755,In Progress,analyst1,2025-04-23,4
+TCK-2756,Critical,Synthetic IT ticket #756,Closed,analyst1,2025-10-28,42
+TCK-2757,Critical,Synthetic IT ticket #757,Assigned,analyst2,2025-09-09,79
+TCK-2758,Critical,Synthetic IT ticket #758,Resolved,analyst2,2025-10-27,165
+TCK-2759,Low,Synthetic IT ticket #759,Open,analyst1,2025-10-09,203
+TCK-2760,Low,Synthetic IT ticket #760,Closed,data_scientist,2025-10-19,185
+TCK-2761,Low,Synthetic IT ticket #761,Assigned,cyber_admin,2025-09-17,33
+TCK-2762,Critical,Synthetic IT ticket #762,Open,analyst1,2025-03-05,28
+TCK-2763,Critical,Synthetic IT ticket #763,Open,analyst2,2025-11-06,80
+TCK-2764,Critical,Synthetic IT ticket #764,Resolved,analyst2,2025-07-05,166
+TCK-2765,Medium,Synthetic IT ticket #765,Assigned,analyst2,2025-09-05,102
+TCK-2766,Low,Synthetic IT ticket #766,Assigned,it_admin,2025-06-03,101
+TCK-2767,Medium,Synthetic IT ticket #767,Assigned,it_admin,2025-07-30,4
+TCK-2768,Medium,Synthetic IT ticket #768,Closed,cyber_admin,2025-03-17,8
+TCK-2769,Medium,Synthetic IT ticket #769,Resolved,it_admin,2025-07-04,115
+TCK-2770,Low,Synthetic IT ticket #770,Closed,cyber_admin,2025-03-06,88
+TCK-2771,Medium,Synthetic IT ticket #771,Open,it_admin,2025-11-05,82
+TCK-2772,Low,Synthetic IT ticket #772,In Progress,analyst1,2025-11-19,150
+TCK-2773,Medium,Synthetic IT ticket #773,Closed,cyber_admin,2025-06-06,191
+TCK-2774,Low,Synthetic IT ticket #774,Assigned,analyst1,2025-04-21,21
+TCK-2775,Critical,Synthetic IT ticket #775,Resolved,cyber_admin,2025-03-04,159
+TCK-2776,Medium,Synthetic IT ticket #776,Resolved,it_admin,2025-03-04,29
+TCK-2777,Medium,Synthetic IT ticket #777,Open,cyber_admin,2025-05-14,102
+TCK-2778,Medium,Synthetic IT ticket #778,Assigned,analyst1,2025-04-05,200
+TCK-2779,High,Synthetic IT ticket #779,Closed,analyst1,2025-07-21,50
+TCK-2780,Medium,Synthetic IT ticket #780,Assigned,cyber_admin,2025-11-05,141
+TCK-2781,Medium,Synthetic IT ticket #781,Closed,analyst1,2025-10-31,158
+TCK-2782,Medium,Synthetic IT ticket #782,Closed,cyber_admin,2025-06-25,82
+TCK-2783,Low,Synthetic IT ticket #783,Open,data_scientist,2025-05-07,9
+TCK-2784,Low,Synthetic IT ticket #784,Closed,it_admin,2025-12-13,228
+TCK-2785,High,Synthetic IT ticket #785,In Progress,it_admin,2025-06-23,208
+TCK-2786,Low,Synthetic IT ticket #786,Closed,analyst2,2025-04-15,67
+TCK-2787,Medium,Synthetic IT ticket #787,Closed,it_admin,2025-11-15,140
+TCK-2788,Critical,Synthetic IT ticket #788,Open,cyber_admin,2025-04-18,73
+TCK-2789,Critical,Synthetic IT ticket #789,Open,cyber_admin,2025-06-28,228
+TCK-2790,High,Synthetic IT ticket #790,In Progress,cyber_admin,2025-10-26,219
+TCK-2791,Medium,Synthetic IT ticket #791,Assigned,data_scientist,2025-04-21,123
+TCK-2792,High,Synthetic IT ticket #792,Open,it_admin,2025-10-08,231
+TCK-2793,High,Synthetic IT ticket #793,In Progress,cyber_admin,2025-08-27,141
+TCK-2794,Medium,Synthetic IT ticket #794,Assigned,analyst1,2025-10-28,111
+TCK-2795,High,Synthetic IT ticket #795,Assigned,analyst2,2025-09-18,240
+TCK-2796,Low,Synthetic IT ticket #796,Closed,analyst1,2025-06-14,41
+TCK-2797,Critical,Synthetic IT ticket #797,Open,cyber_admin,2025-12-01,125
+TCK-2798,High,Synthetic IT ticket #798,Assigned,analyst1,2025-10-04,203
+TCK-2799,Medium,Synthetic IT ticket #799,Assigned,cyber_admin,2025-09-23,222
+TCK-2800,High,Synthetic IT ticket #800,Closed,cyber_admin,2025-08-30,236
+TCK-2801,Low,Synthetic IT ticket #801,Open,analyst2,2025-06-12,40
+TCK-2802,High,Synthetic IT ticket #802,In Progress,data_scientist,2025-09-07,18
+TCK-2803,Critical,Synthetic IT ticket #803,Open,data_scientist,2025-09-24,127
+TCK-2804,Low,Synthetic IT ticket #804,Resolved,data_scientist,2025-05-17,144
+TCK-2805,Critical,Synthetic IT ticket #805,Open,data_scientist,2025-11-18,164
+TCK-2806,Low,Synthetic IT ticket #806,Open,cyber_admin,2025-05-19,18
+TCK-2807,Medium,Synthetic IT ticket #807,Assigned,analyst2,2025-11-22,212
+TCK-2808,Medium,Synthetic IT ticket #808,In Progress,data_scientist,2025-04-29,9
+TCK-2809,Medium,Synthetic IT ticket #809,Resolved,cyber_admin,2025-09-20,226
+TCK-2810,Critical,Synthetic IT ticket #810,Open,cyber_admin,2025-09-24,4
+TCK-2811,Critical,Synthetic IT ticket #811,Open,it_admin,2025-04-26,4
+TCK-2812,Critical,Synthetic IT ticket #812,In Progress,analyst1,2025-02-18,33
+TCK-2813,Low,Synthetic IT ticket #813,Resolved,analyst2,2025-07-11,92
+TCK-2814,Critical,Synthetic IT ticket #814,In Progress,data_scientist,2025-08-10,75
+TCK-2815,Low,Synthetic IT ticket #815,Resolved,it_admin,2025-06-23,56
+TCK-2816,Low,Synthetic IT ticket #816,Closed,cyber_admin,2025-10-05,115
+TCK-2817,Low,Synthetic IT ticket #817,Closed,it_admin,2025-06-12,224
+TCK-2818,Medium,Synthetic IT ticket #818,Closed,cyber_admin,2025-09-13,42
+TCK-2819,Low,Synthetic IT ticket #819,In Progress,cyber_admin,2025-08-05,93
+TCK-2820,High,Synthetic IT ticket #820,In Progress,data_scientist,2025-09-03,144
+TCK-2821,Low,Synthetic IT ticket #821,Resolved,data_scientist,2025-08-25,36
+TCK-2822,Critical,Synthetic IT ticket #822,Assigned,cyber_admin,2025-07-04,55
+TCK-2823,Critical,Synthetic IT ticket #823,Assigned,data_scientist,2025-03-04,189
+TCK-2824,High,Synthetic IT ticket #824,Resolved,it_admin,2025-09-17,229
+TCK-2825,Low,Synthetic IT ticket #825,In Progress,it_admin,2025-04-13,7
+TCK-2826,Critical,Synthetic IT ticket #826,Assigned,it_admin,2025-11-02,143
+TCK-2827,Medium,Synthetic IT ticket #827,In Progress,analyst2,2025-10-22,225
+TCK-2828,High,Synthetic IT ticket #828,Closed,analyst1,2025-03-26,154
+TCK-2829,Critical,Synthetic IT ticket #829,In Progress,cyber_admin,2025-08-13,46
+TCK-2830,Critical,Synthetic IT ticket #830,Closed,data_scientist,2025-09-15,127
+TCK-2831,Medium,Synthetic IT ticket #831,Resolved,it_admin,2025-04-28,139
+TCK-2832,Low,Synthetic IT ticket #832,Assigned,cyber_admin,2025-06-04,27
+TCK-2833,Low,Synthetic IT ticket #833,Closed,analyst1,2025-10-08,150
+TCK-2834,Critical,Synthetic IT ticket #834,Closed,data_scientist,2025-09-02,127
+TCK-2835,Low,Synthetic IT ticket #835,Closed,it_admin,2025-09-15,234
+TCK-2836,Medium,Synthetic IT ticket #836,Assigned,analyst1,2025-09-27,103
+TCK-2837,Critical,Synthetic IT ticket #837,Open,it_admin,2025-05-28,56
+TCK-2838,Medium,Synthetic IT ticket #838,In Progress,analyst1,2025-04-07,172
+TCK-2839,Medium,Synthetic IT ticket #839,Closed,analyst2,2025-04-25,8
+TCK-2840,Medium,Synthetic IT ticket #840,Resolved,analyst2,2025-10-21,204
+TCK-2841,Medium,Synthetic IT ticket #841,Resolved,cyber_admin,2025-08-11,39
+TCK-2842,Medium,Synthetic IT ticket #842,Open,data_scientist,2025-10-21,238
+TCK-2843,Low,Synthetic IT ticket #843,Assigned,it_admin,2025-12-07,107
+TCK-2844,Critical,Synthetic IT ticket #844,Open,analyst2,2025-08-13,67
+TCK-2845,Critical,Synthetic IT ticket #845,Closed,data_scientist,2025-05-25,78
+TCK-2846,Low,Synthetic IT ticket #846,Closed,cyber_admin,2025-11-24,116
+TCK-2847,Medium,Synthetic IT ticket #847,Resolved,it_admin,2025-11-08,42
+TCK-2848,Medium,Synthetic IT ticket #848,Assigned,data_scientist,2025-08-15,93
+TCK-2849,High,Synthetic IT ticket #849,In Progress,analyst2,2025-02-19,87
+TCK-2850,High,Synthetic IT ticket #850,In Progress,it_admin,2025-02-21,199
+TCK-2851,Low,Synthetic IT ticket #851,In Progress,analyst1,2025-02-17,220
+TCK-2852,Medium,Synthetic IT ticket #852,Closed,cyber_admin,2025-05-21,164
+TCK-2853,Medium,Synthetic IT ticket #853,Assigned,data_scientist,2025-10-30,214
+TCK-2854,Medium,Synthetic IT ticket #854,Closed,cyber_admin,2025-09-03,59
+TCK-2855,High,Synthetic IT ticket #855,Closed,analyst2,2025-02-28,134
+TCK-2856,Medium,Synthetic IT ticket #856,Open,data_scientist,2025-11-08,199
+TCK-2857,Medium,Synthetic IT ticket #857,Assigned,analyst2,2025-09-04,188
+TCK-2858,Critical,Synthetic IT ticket #858,Resolved,data_scientist,2025-02-17,165
+TCK-2859,Low,Synthetic IT ticket #859,Closed,data_scientist,2025-06-01,98
+TCK-2860,High,Synthetic IT ticket #860,Open,cyber_admin,2025-10-13,143
+TCK-2861,High,Synthetic IT ticket #861,Closed,it_admin,2025-05-27,24
+TCK-2862,High,Synthetic IT ticket #862,Assigned,data_scientist,2025-09-04,207
+TCK-2863,Low,Synthetic IT ticket #863,Open,it_admin,2025-10-24,129
+TCK-2864,Medium,Synthetic IT ticket #864,Open,it_admin,2025-05-10,177
+TCK-2865,Medium,Synthetic IT ticket #865,Assigned,cyber_admin,2025-08-05,54
+TCK-2866,Low,Synthetic IT ticket #866,Open,cyber_admin,2025-12-06,226
+TCK-2867,Critical,Synthetic IT ticket #867,Closed,analyst1,2025-10-14,188
+TCK-2868,Medium,Synthetic IT ticket #868,In Progress,data_scientist,2025-09-17,152
+TCK-2869,High,Synthetic IT ticket #869,Open,data_scientist,2025-06-21,96
+TCK-2870,Critical,Synthetic IT ticket #870,Resolved,data_scientist,2025-10-01,56
+TCK-2871,Critical,Synthetic IT ticket #871,In Progress,data_scientist,2025-08-15,59
+TCK-2872,Critical,Synthetic IT ticket #872,Resolved,it_admin,2025-07-16,205
+TCK-2873,Low,Synthetic IT ticket #873,Assigned,cyber_admin,2025-06-21,210
+TCK-2874,High,Synthetic IT ticket #874,Open,it_admin,2025-05-04,206
+TCK-2875,High,Synthetic IT ticket #875,Assigned,it_admin,2025-12-13,234
+TCK-2876,High,Synthetic IT ticket #876,Assigned,cyber_admin,2025-03-28,36
+TCK-2877,Medium,Synthetic IT ticket #877,In Progress,it_admin,2025-07-16,193
+TCK-2878,Low,Synthetic IT ticket #878,Assigned,it_admin,2025-05-01,118
+TCK-2879,Critical,Synthetic IT ticket #879,Assigned,it_admin,2025-08-16,169
+TCK-2880,Critical,Synthetic IT ticket #880,In Progress,analyst1,2025-11-11,95
+TCK-2881,High,Synthetic IT ticket #881,Assigned,analyst1,2025-08-15,117
+TCK-2882,High,Synthetic IT ticket #882,Assigned,it_admin,2025-06-27,221
+TCK-2883,Low,Synthetic IT ticket #883,Open,analyst1,2025-06-17,153
+TCK-2884,Low,Synthetic IT ticket #884,Resolved,analyst1,2025-06-27,42
+TCK-2885,Low,Synthetic IT ticket #885,Open,data_scientist,2025-09-10,162
+TCK-2886,Low,Synthetic IT ticket #886,Assigned,cyber_admin,2025-09-06,158
+TCK-2887,Low,Synthetic IT ticket #887,Resolved,it_admin,2025-05-21,139
+TCK-2888,Low,Synthetic IT ticket #888,Resolved,data_scientist,2025-06-20,173
+TCK-2889,Medium,Synthetic IT ticket #889,Assigned,analyst1,2025-05-24,193
+TCK-2890,Critical,Synthetic IT ticket #890,Closed,data_scientist,2025-03-09,141
+TCK-2891,Critical,Synthetic IT ticket #891,Open,analyst1,2025-10-15,203
+TCK-2892,High,Synthetic IT ticket #892,Resolved,it_admin,2025-08-12,207
+TCK-2893,High,Synthetic IT ticket #893,In Progress,data_scientist,2025-03-06,37
+TCK-2894,Critical,Synthetic IT ticket #894,Open,cyber_admin,2025-07-20,136
+TCK-2895,Medium,Synthetic IT ticket #895,In Progress,data_scientist,2025-03-05,104
+TCK-2896,Critical,Synthetic IT ticket #896,Assigned,data_scientist,2025-10-15,115
+TCK-2897,Medium,Synthetic IT ticket #897,In Progress,cyber_admin,2025-07-18,160
+TCK-2898,Critical,Synthetic IT ticket #898,Closed,analyst2,2025-09-02,153
+TCK-2899,High,Synthetic IT ticket #899,Assigned,it_admin,2025-07-11,9
+TCK-2900,High,Synthetic IT ticket #900,Resolved,analyst2,2025-06-19,218
+TCK-2901,High,Synthetic IT ticket #901,Open,it_admin,2025-07-01,34
+TCK-2902,High,Synthetic IT ticket #902,In Progress,cyber_admin,2025-08-09,116
+TCK-2903,High,Synthetic IT ticket #903,Closed,it_admin,2025-11-06,7
+TCK-2904,Low,Synthetic IT ticket #904,Closed,it_admin,2025-03-03,157
+TCK-2905,High,Synthetic IT ticket #905,Assigned,it_admin,2025-05-26,178
+TCK-2906,Critical,Synthetic IT ticket #906,Open,analyst2,2025-10-28,109
+TCK-2907,Low,Synthetic IT ticket #907,In Progress,data_scientist,2025-03-11,36
+TCK-2908,High,Synthetic IT ticket #908,Assigned,cyber_admin,2025-03-15,93
+TCK-2909,Critical,Synthetic IT ticket #909,In Progress,it_admin,2025-05-19,7
+TCK-2910,Low,Synthetic IT ticket #910,Closed,analyst1,2025-03-07,174
+TCK-2911,Medium,Synthetic IT ticket #911,Resolved,cyber_admin,2025-08-23,65
+TCK-2912,High,Synthetic IT ticket #912,Assigned,it_admin,2025-12-12,186
+TCK-2913,Medium,Synthetic IT ticket #913,Assigned,data_scientist,2025-08-16,74
+TCK-2914,Critical,Synthetic IT ticket #914,Assigned,analyst1,2025-05-31,132
+TCK-2915,Low,Synthetic IT ticket #915,In Progress,cyber_admin,2025-04-27,126
+TCK-2916,Critical,Synthetic IT ticket #916,Resolved,cyber_admin,2025-11-17,138
+TCK-2917,Low,Synthetic IT ticket #917,Resolved,data_scientist,2025-03-31,72
+TCK-2918,Low,Synthetic IT ticket #918,Resolved,data_scientist,2025-09-20,128
+TCK-2919,Critical,Synthetic IT ticket #919,Assigned,analyst2,2025-09-16,207
+TCK-2920,High,Synthetic IT ticket #920,Resolved,it_admin,2025-06-01,36
+TCK-2921,Low,Synthetic IT ticket #921,Assigned,it_admin,2025-11-22,159
+TCK-2922,Critical,Synthetic IT ticket #922,Assigned,it_admin,2025-08-14,52
+TCK-2923,Critical,Synthetic IT ticket #923,In Progress,data_scientist,2025-08-29,43
+TCK-2924,High,Synthetic IT ticket #924,In Progress,analyst2,2025-07-19,176
+TCK-2925,Critical,Synthetic IT ticket #925,Open,data_scientist,2025-09-08,193
+TCK-2926,Medium,Synthetic IT ticket #926,Assigned,cyber_admin,2025-12-01,68
+TCK-2927,Medium,Synthetic IT ticket #927,In Progress,it_admin,2025-03-31,55
+TCK-2928,Critical,Synthetic IT ticket #928,Closed,analyst1,2025-03-27,63
+TCK-2929,Critical,Synthetic IT ticket #929,Assigned,cyber_admin,2025-09-09,27
+TCK-2930,Low,Synthetic IT ticket #930,Open,cyber_admin,2025-02-20,163
+TCK-2931,Low,Synthetic IT ticket #931,Assigned,it_admin,2025-03-14,138
+TCK-2932,High,Synthetic IT ticket #932,Open,data_scientist,2025-10-27,110
+TCK-2933,Critical,Synthetic IT ticket #933,In Progress,it_admin,2025-11-26,13
+TCK-2934,Medium,Synthetic IT ticket #934,Open,cyber_admin,2025-10-18,108
+TCK-2935,Medium,Synthetic IT ticket #935,Closed,cyber_admin,2025-03-03,1
+TCK-2936,Low,Synthetic IT ticket #936,Closed,data_scientist,2025-03-11,217
+TCK-2937,Critical,Synthetic IT ticket #937,Assigned,data_scientist,2025-05-14,158
+TCK-2938,Low,Synthetic IT ticket #938,In Progress,data_scientist,2025-07-28,149
+TCK-2939,Medium,Synthetic IT ticket #939,Resolved,cyber_admin,2025-05-13,216
+TCK-2940,High,Synthetic IT ticket #940,Resolved,it_admin,2025-12-06,204
+TCK-2941,High,Synthetic IT ticket #941,Resolved,data_scientist,2025-04-07,138
+TCK-2942,High,Synthetic IT ticket #942,Open,data_scientist,2025-10-28,37
+TCK-2943,Low,Synthetic IT ticket #943,Open,it_admin,2025-07-25,183
+TCK-2944,Low,Synthetic IT ticket #944,Closed,analyst1,2025-06-11,199
+TCK-2945,Medium,Synthetic IT ticket #945,Open,data_scientist,2025-05-18,140
+TCK-2946,Critical,Synthetic IT ticket #946,Closed,cyber_admin,2025-08-14,193
+TCK-2947,Medium,Synthetic IT ticket #947,In Progress,data_scientist,2025-08-25,10
+TCK-2948,Low,Synthetic IT ticket #948,In Progress,cyber_admin,2025-05-06,32
+TCK-2949,Critical,Synthetic IT ticket #949,In Progress,it_admin,2025-10-04,201
+TCK-2950,High,Synthetic IT ticket #950,Resolved,cyber_admin,2025-05-11,25
+TCK-2951,Medium,Synthetic IT ticket #951,Resolved,it_admin,2025-11-11,111
+TCK-2952,Medium,Synthetic IT ticket #952,Resolved,analyst1,2025-05-09,116
+TCK-2953,Medium,Synthetic IT ticket #953,Resolved,analyst1,2025-05-08,222
+TCK-2954,Critical,Synthetic IT ticket #954,Resolved,cyber_admin,2025-12-06,3
+TCK-2955,Critical,Synthetic IT ticket #955,Open,analyst2,2025-02-26,202
+TCK-2956,Critical,Synthetic IT ticket #956,Assigned,analyst1,2025-05-01,167
+TCK-2957,High,Synthetic IT ticket #957,Closed,analyst2,2025-10-29,47
+TCK-2958,Low,Synthetic IT ticket #958,Assigned,data_scientist,2025-06-30,140
+TCK-2959,Low,Synthetic IT ticket #959,In Progress,analyst1,2025-12-13,36
+TCK-2960,High,Synthetic IT ticket #960,In Progress,data_scientist,2025-10-18,154
+TCK-2961,Critical,Synthetic IT ticket #961,Resolved,cyber_admin,2025-03-08,117
+TCK-2962,High,Synthetic IT ticket #962,In Progress,it_admin,2025-08-29,216
+TCK-2963,Medium,Synthetic IT ticket #963,Open,data_scientist,2025-05-11,78
+TCK-2964,Critical,Synthetic IT ticket #964,In Progress,cyber_admin,2025-08-26,175
+TCK-2965,Low,Synthetic IT ticket #965,In Progress,analyst1,2025-08-04,77
+TCK-2966,Critical,Synthetic IT ticket #966,Closed,it_admin,2025-10-19,150
+TCK-2967,Low,Synthetic IT ticket #967,In Progress,cyber_admin,2025-12-04,70
+TCK-2968,Critical,Synthetic IT ticket #968,In Progress,analyst1,2025-11-07,60
+TCK-2969,High,Synthetic IT ticket #969,In Progress,analyst1,2025-05-19,74
+TCK-2970,High,Synthetic IT ticket #970,Open,analyst2,2025-04-26,195
+TCK-2971,Critical,Synthetic IT ticket #971,Open,analyst2,2025-04-02,145
+TCK-2972,Critical,Synthetic IT ticket #972,In Progress,data_scientist,2025-04-12,7
+TCK-2973,Critical,Synthetic IT ticket #973,In Progress,it_admin,2025-10-13,137
+TCK-2974,Low,Synthetic IT ticket #974,Assigned,it_admin,2025-06-06,120
+TCK-2975,Critical,Synthetic IT ticket #975,Assigned,analyst1,2025-11-09,115
+TCK-2976,Medium,Synthetic IT ticket #976,Resolved,cyber_admin,2025-06-13,211
+TCK-2977,High,Synthetic IT ticket #977,In Progress,cyber_admin,2025-07-29,165
+TCK-2978,Medium,Synthetic IT ticket #978,Closed,analyst2,2025-06-10,43
+TCK-2979,High,Synthetic IT ticket #979,Closed,analyst1,2025-07-05,84
+TCK-2980,Low,Synthetic IT ticket #980,In Progress,it_admin,2025-11-18,88
+TCK-2981,Critical,Synthetic IT ticket #981,In Progress,it_admin,2025-02-17,158
+TCK-2982,High,Synthetic IT ticket #982,Resolved,analyst2,2025-09-11,62
+TCK-2983,Medium,Synthetic IT ticket #983,Assigned,data_scientist,2025-05-31,6
+TCK-2984,Critical,Synthetic IT ticket #984,Assigned,it_admin,2025-09-08,108
+TCK-2985,Low,Synthetic IT ticket #985,Assigned,it_admin,2025-05-07,215
+TCK-2986,Critical,Synthetic IT ticket #986,Assigned,it_admin,2025-10-21,180
+TCK-2987,Critical,Synthetic IT ticket #987,In Progress,it_admin,2025-02-24,169
+TCK-2988,High,Synthetic IT ticket #988,Open,data_scientist,2025-06-02,32
+TCK-2989,Low,Synthetic IT ticket #989,Open,analyst2,2025-12-05,192
+TCK-2990,Medium,Synthetic IT ticket #990,Resolved,analyst2,2025-04-19,130
+TCK-2991,Medium,Synthetic IT ticket #991,Open,data_scientist,2025-06-02,69
+TCK-2992,Critical,Synthetic IT ticket #992,Assigned,analyst2,2025-04-08,165
+TCK-2993,Critical,Synthetic IT ticket #993,In Progress,cyber_admin,2025-07-05,204
+TCK-2994,Low,Synthetic IT ticket #994,Open,cyber_admin,2025-06-13,109
+TCK-2995,Critical,Synthetic IT ticket #995,Closed,analyst2,2025-06-23,20
+TCK-2996,Critical,Synthetic IT ticket #996,Resolved,cyber_admin,2025-12-08,18
+TCK-2997,Medium,Synthetic IT ticket #997,Assigned,it_admin,2025-05-13,85
+TCK-2998,Medium,Synthetic IT ticket #998,Open,it_admin,2025-09-20,19
+TCK-2999,High,Synthetic IT ticket #999,Closed,data_scientist,2025-11-05,139
